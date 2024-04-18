@@ -1,8 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋)](https://git.io/typing-svg)
+
 🔭 I’m currently working at FSU FREAC on ArcGIS projects
+
 🌱 I’m currently learning Typescript, C++, and Python
+
 📫 How to reach me: sxs22@fsu.edu
-- 😄 Pronouns: he/him
+
+😄 Pronouns: he/him
+
 <!--
 **KPCOFGS/KPCOFGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
