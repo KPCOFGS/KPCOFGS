@@ -1,5 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&vCenter=true&width=200&height=40&lines=Hi+there+👋)](https://git.io/typing-svg)
 
+[//]: # (<a href="#">)
+
+[//]: # ()
+[//]: # (  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qiye45&count_private=true&show_icons=true&hide=contribs&bg_color=15,f2f7fd,E0EAFC" />)
+
+[//]: # ()
+[//]: # (</a>)
+
+<a>
+  <img align="right" width="450px" src="./github-metrics.svg"  alt="资料"/>
+</a>
+
 🔭 **I’m currently working at FSU FREAC on ArcGIS projects**
 
 🌱 **I’m currently learning Typescript, C++, and Python**
