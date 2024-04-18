@@ -22,12 +22,12 @@
 
 ![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/LinuxMint-E95420?style=flat-square&logo=linuxmint&logoColor=green)
+![](https://img.shields.io/badge/LinuxMint-47A248?style=flat-square&logo=linuxmint&logoColor=fff)
 
 📝 Editors 
 
-![](https://img.shields.io/badge/Geany-05ABD0?style=flat-square&logo=geany&logoColor=yellow)
-![](https://img.shields.io/badge/PyCharm-4fc08d?style=flat-square&logo=pycharm&logoColor=green)
+![](https://img.shields.io/badge/Geany-fcc624?style=flat-square&logo=geany&logoColor=fff)
+![](https://img.shields.io/badge/PyCharm-009639?style=flat-square&logo=pycharm&logoColor=fff)
 
 <!--
 **KPCOFGS/KPCOFGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
