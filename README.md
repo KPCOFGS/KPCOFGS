@@ -8,7 +8,7 @@
 
 ## ✨ **My Skills**  
 
-![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-4fc08d?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-JavaScript-fcc624?style=flat-square&logo=JavaScript&logoColor=fff)
