@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&vCenter=true&width=200&height=40&lines=Hi+there+👋)](https://git.io/typing-svg)
 
+![Metrics](https://metrics.lecoq.io/KPCOFGS?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York)
+
 <a>
   <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true"/>
 </a>
@@ -20,9 +22,9 @@
 
 🖥️ Operating Systems
 
+![](https://img.shields.io/badge/LinuxMint-47A248?style=flat-square&logo=linuxmint&logoColor=fff)
 ![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/LinuxMint-47A248?style=flat-square&logo=linuxmint&logoColor=fff)
 
 📝 Editors 
 
