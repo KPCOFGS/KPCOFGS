@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/-JavaScript-fcc624?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
 
-🖥️ Operating Systems
+🖥️ **Operating Systems**
 
 ![](https://img.shields.io/badge/LinuxMint-47A248?style=flat-square&logo=linuxmint&logoColor=fff)
 ![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)
