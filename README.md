@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&vCenter=true&width=200&height=40&lines=Hi+there+👋)](https://git.io/typing-svg)
 
-![Metrics](https://metrics.lecoq.io/KPCOFGS?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York)
-
 <a>
   <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true"/>
 </a>
@@ -28,7 +26,7 @@
 
 📝 Editors 
 
-![](https://img.shields.io/badge/Geany-fcc624?style=flat-square&logo=geany&logoColor=fff)
+![](https://img.shields.io/badge/Geany-fcc624?style=flat-square&logo=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Geany_logo.svg/1200px-Geany_logo.svg.png&logoColor=fff)
 ![](https://img.shields.io/badge/PyCharm-009639?style=flat-square&logo=pycharm&logoColor=fff)
 
 <!--
