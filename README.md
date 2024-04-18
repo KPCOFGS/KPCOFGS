@@ -6,7 +6,6 @@
 
 📫 How to reach me: sxs22@fsu.edu
 
-😄 Pronouns: he/him
 
 <!--
 **KPCOFGS/KPCOFGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
