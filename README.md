@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-JavaScript-3178C6?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-CPP-009639?style=flat-square&logo=CPP&logoColor=fff)
+![](https://img.shields.io/badge/-C++-009639?style=flat-square&logo=C++&logoColor=fff)
 
 <!--
 **KPCOFGS/KPCOFGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
