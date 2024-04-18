@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&vCenter=true&width=200&height=40&lines=Hi+there+👋)](https://git.io/typing-svg)
 
 🔭 **I’m currently working at FSU FREAC on ArcGIS projects**
 
