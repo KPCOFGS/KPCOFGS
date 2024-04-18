@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋)](https://git.io/typing-svg)
 
-🔭 I’m currently working at FSU FREAC on ArcGIS projects
+🔭 **I’m currently working at FSU FREAC on ArcGIS projects**
 
-🌱 I’m currently learning Typescript, C++, and Python
+🌱 **I’m currently learning Typescript, C++, and Python**
 
-📫 How to reach me: sxs22@fsu.edu
+📫 **How to reach me: sxs22@fsu.edu**
 
 ## ✨ **My Skills**  
 
