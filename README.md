@@ -6,7 +6,7 @@
 
 📫 How to reach me: sxs22@fsu.edu
 
-## 🌟 **My Skills**  
+## ✨ **My Skills**  
 
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-JavaScript-3178C6?style=flat-square&logo=JavaScript&logoColor=fff)
