@@ -4,7 +4,7 @@
   <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true"/>
 </a>
 
-🔭 **I’m currently working at FSU FREAC on ArcGIS projects**
+🌍 **I’m currently working at FSU FREAC on ArcGIS projects**
 
 🌱 **I’m currently learning Typescript, C++, and Python**
 
@@ -17,6 +17,17 @@
 ![](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-JavaScript-fcc624?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
+
+🖥️ Operating Systems
+
+![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/LinuxMint-E95420?style=flat-square&logo=linuxmint&logoColor=green)
+
+📝 Editors 
+
+![](https://img.shields.io/badge/Geany-05ABD0?style=flat-square&logo=geany&logoColor=yellow)
+![](https://img.shields.io/badge/PyCharm-4fc08d?style=flat-square&logo=pycharm&logoColor=green)
 
 <!--
 **KPCOFGS/KPCOFGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
