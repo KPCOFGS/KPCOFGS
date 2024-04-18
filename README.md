@@ -3,13 +3,12 @@
 [//]: # (<a href="#">)
 
 [//]: # ()
-[//]: # (  <img align="right" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&count_private=true&show_icons=true&hide=contribs&bg_color=15,f2f7fd,E0EAFC" />)
-
+[//]: # (  <img align="right" src="" />)
 [//]: # ()
 [//]: # (</a>)
 
 <a>
-  <img align="right" width="450px" src="./github-metrics.svg"  alt="资料"/>
+  <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true"/>
 </a>
 
 🔭 **I’m currently working at FSU FREAC on ArcGIS projects**
