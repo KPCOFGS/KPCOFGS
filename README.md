@@ -9,9 +9,7 @@
 🌱 **I’m currently learning Typescript, C++, and Python**
 
 📫 **How to reach me: sxs22@fsu.edu**
-<a>
-  <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
-</a>
+
 ## ✨ **My Skills**  
 
 🌐 **Programming Languages**
@@ -20,7 +18,9 @@
 ![](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-JavaScript-fcc624?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
-
+<a>
+  <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
+</a>
 🖥️ **Operating Systems**
 
 ![](https://img.shields.io/badge/-Linux-4fc08d?style=flat-square&logo=Linux&logoColor=fff)
