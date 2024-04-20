@@ -15,7 +15,6 @@
 </a>
 
 ## ✨ **My Skills**
-<p style="font-size:100;">Your text here</p>
 
 🌐 **Programming Languages**
 
