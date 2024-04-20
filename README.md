@@ -14,7 +14,7 @@
   <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
 </a>
 
-<h2><strong>✨ My Skills</strong></h2>
+<<div style="font-size: 1.5em;">><strong>✨ My Skills</strong></div>
 
 🌐 **Programming Languages**
 
