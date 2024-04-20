@@ -14,7 +14,8 @@
   <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=600&duration=1&color=F7F7F7&repeat=false&random=false&width=200&height=30&lines=✨+My+Skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=600&duration=1&color=F7F7F7&repeat=false&random=false&width=200&height=10&lines=✨+My+Skills)](https://git.io/typing-svg)
+
 🌐 **Programming Languages**
 
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
