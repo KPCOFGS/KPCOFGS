@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&vCenter=true&width=200&height=40&lines=Hello+World+👋)](https://git.io/typing-svg)
 
 <a>
-  <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true">
+  <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true">
 </a>
 
 🌍 **I’m currently working at FSU FREAC on ArcGIS projects**
