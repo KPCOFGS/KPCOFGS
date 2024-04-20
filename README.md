@@ -11,7 +11,7 @@
 📫 **How to reach me: sxs22@fsu.edu**
 
 <a>
-  <img align="right" width="450px" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
+  <img align="right" width="450px" height="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
 </a>
 
 ## ✨ **My Skills**  
