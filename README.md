@@ -14,7 +14,7 @@
   <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=1&color=F7F7F7&repeat=false&random=false&width=435&lines=✨+My+Skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=1&color=F7F7F7&repeat=false&random=false&width=435&height=30&lines=✨+My+Skills)](https://git.io/typing-svg)
 
 🌐 **Programming Languages**
 
