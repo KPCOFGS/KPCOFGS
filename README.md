@@ -4,9 +4,7 @@
   <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true">
 </a>
 <br />
-<a>
-  <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
-</a>
+
 🌍 **I’m currently working at FSU FREAC on ArcGIS projects**
 
 🌱 **I’m currently learning Typescript, C++, and Python**
@@ -28,7 +26,9 @@
 ![](https://img.shields.io/badge/LinuxMint-47A248?style=flat-square&logo=linuxmint&logoColor=fff)
 ![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-
+<a>
+  <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
+</a>
 <!--
 **KPCOFGS/KPCOFGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
