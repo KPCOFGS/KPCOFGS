@@ -8,10 +8,6 @@
 
 📫 **How to reach me: sxs22@fsu.edu**
 
-<a>
-  <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
-</a>
-
 ### ✨ **My Skills**
 
 🌐 **Programming Languages**
@@ -31,6 +27,10 @@
 
 <a>
   <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true">
+</a>
+
+<a>
+  <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
 </a>
 <!--
 **KPCOFGS/KPCOFGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
