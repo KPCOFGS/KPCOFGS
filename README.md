@@ -30,7 +30,7 @@
 ![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
-![Metrics](https://metrics.lecoq.io/KPCOFGS?template=classic&activity=1&discussions=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&discussions=false&discussions.categories=true&discussions.categories.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=America%2FNew_York)
+![Metrics](https://metrics.lecoq.io/KPCOFGS?template=classic&discussions=1&followup=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&discussions=false&discussions.categories=true&discussions.categories.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=America%2FNew_York)
 
 
 <!--
