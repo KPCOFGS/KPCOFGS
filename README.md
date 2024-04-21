@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&vCenter=true&width=200&height=40&lines=Hello+World+👋)](https://git.io/typing-svg)
-
 <img align="right" src="github-metrics.svg">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&vCenter=true&width=200&height=40&lines=Hello+World+👋)](https://git.io/typing-svg)
 
 🌍 **I’m currently working at FSU FREAC on ArcGIS projects**
 
@@ -26,9 +26,9 @@
 
 
 <a>
-  <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true">
+  <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true">
 
-  <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
+  <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
 </a>
 <!--
 **KPCOFGS/KPCOFGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
