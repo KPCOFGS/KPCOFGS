@@ -1,4 +1,4 @@
-<img src="https://count.getloli.com/get/@:KPCOFGS" alt=":KPCOFGS" />
+<img align="center" src="https://count.getloli.com/get/@:KPCOFGS" alt=":KPCOFGS" />
 
 <img align="right" src="github-metrics.svg">
 
