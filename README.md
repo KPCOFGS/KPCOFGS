@@ -19,11 +19,10 @@
 
 🖥️ **Operating Systems**
 
-![](https://img.shields.io/badge/-Linux-4fc08d?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/LinuxMint-47A248?style=flat-square&logo=linuxmint&logoColor=fff)
-![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-
+[![](https://img.shields.io/badge/-Linux-4fc08d?style=flat-square&logo=Linux&logoColor=fff)](https://www.linuxfoundation.org/)
+[![](https://img.shields.io/badge/LinuxMint-47A248?style=flat-square&logo=linuxmint&logoColor=fff)](https://linuxmint.com/)
+[![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/software-download/windows11)
+[![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
 
 <a>
   <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true">
