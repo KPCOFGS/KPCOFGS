@@ -1,6 +1,4 @@
-<img align="center" src="https://profile-counter.glitch.me/{KPCOFGS}/count.svg" />
-
-
+<img src="https://count.getloli.com/get/@:KPCOFGS" alt=":KPCOFGS" />
 
 <img align="right" src="github-metrics.svg">
 
