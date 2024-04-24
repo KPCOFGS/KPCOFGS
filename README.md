@@ -1,4 +1,4 @@
-<img src="https://profile-counter.glitch.me/{KPCOFGS}/count.svg" />
+<img align="center" src="https://profile-counter.glitch.me/{KPCOFGS}/count.svg" />
 
 <img align="right" src="github-metrics.svg">
 
