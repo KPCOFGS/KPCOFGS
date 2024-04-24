@@ -1,8 +1,8 @@
 <img align="right" src="github-metrics.svg">
 
-<img src="https://count.getloli.com/get/@:KPCOFGS" alt=":KPCOFGS" />
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&vCenter=true&width=200&height=40&lines=Hello+World+👋)](https://git.io/typing-svg)
+
+<img src="https://count.getloli.com/get/@:KPCOFGS" alt=":KPCOFGS" />
 
 🌍 **I’m currently working at FSU FREAC on ArcGIS projects**
 
