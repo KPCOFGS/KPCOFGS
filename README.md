@@ -1,3 +1,5 @@
+<img src="https://profile-counter.glitch.me/{KPCOFGS}/count.svg" />
+
 <img align="right" src="github-metrics.svg">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&vCenter=true&width=200&height=40&lines=Hello+World+👋)](https://git.io/typing-svg)
