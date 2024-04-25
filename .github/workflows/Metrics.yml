@@ -27,9 +27,3 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
-          plugin_gists: yes
-          plugin_discussions: yes
-          plugin_discussions_categories: yes
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_sections: repositories
