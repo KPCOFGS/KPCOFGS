@@ -30,6 +30,9 @@
 [![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/software-download/windows11)
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
 
+
+
+
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#7](https://github.com/LLM-Red-Team/emohaa-free-api/issues/7) in [LLM-Red-Team/emohaa-free-api](https://github.com/LLM-Red-Team/emohaa-free-api)
