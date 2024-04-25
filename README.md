@@ -1,3 +1,8 @@
+<a>
+  <img width="300px" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true">
+  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
+</a>
+
 <img align="right" src="github-metrics.svg">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&vCenter=true&width=200&height=40&lines=Hello+World+👋)](https://git.io/typing-svg)
@@ -25,11 +30,6 @@
 [![](https://img.shields.io/badge/LinuxMint-47A248?style=flat-square&logo=linuxmint&logoColor=fff)](https://linuxmint.com/)
 [![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/software-download/windows11)
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
-
-<a>
-  <img width="300px" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true">
-  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
-</a>
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
