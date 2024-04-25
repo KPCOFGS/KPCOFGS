@@ -8,6 +8,8 @@
 
 🌱 **I’m currently learning Typescript, C++, and Python**
 
+🔥 **I'm very passionate about Machine Learning and Deep Learning**
+
 📫 **How to reach me: sxs22@fsu.edu**
 
 ### ✨ **My Skills**
