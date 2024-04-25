@@ -22,7 +22,7 @@
 🖥️ **Operating Systems**
 
 <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true&show=prs_merged,prs_merged_percentage">
 </a>
 
 [![](https://img.shields.io/badge/-Linux-4fc08d?style=flat-square&logo=Linux&logoColor=fff)](https://www.linuxfoundation.org/)
