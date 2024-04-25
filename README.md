@@ -12,25 +12,20 @@
 
 ### ✨ **My Skills**
 
-🌐 **Programming Languages**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B&logoColor=fff)
-![](https://img.shields.io/badge/-JavaScript-fcc624?style=flat-square&logo=JavaScript&logoColor=fff)
-![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
-
 🖥️ **Operating Systems**
-
-<a>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true&show=reviews,prs_merged,prs_merged_percentage">
-</a>
 
 [![](https://img.shields.io/badge/-Linux-4fc08d?style=flat-square&logo=Linux&logoColor=fff)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/LinuxMint-47A248?style=flat-square&logo=linuxmint&logoColor=fff)](https://linuxmint.com/)
 [![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/software-download/windows11)
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
+
+🌐 **Programming Languages**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS)](https://github.com/anuraghazra/github-readme-stats)
+
+<a>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true&show=reviews,prs_merged,prs_merged_percentage">
+</a>
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
