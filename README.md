@@ -28,10 +28,10 @@
 
 <a>
   <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true">
+</a>
 
 
-
-
+<a>
   <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
 </a>
 
