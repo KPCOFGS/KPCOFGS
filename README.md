@@ -1,11 +1,11 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&vCenter=true&width=200&height=40&lines=Hello+World+👋)](https://git.io/typing-svg)
+
 <a>
   <img width="300px" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true">
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
 </a>
 
 <img align="right" src="github-metrics.svg">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&vCenter=true&width=200&height=40&lines=Hello+World+👋)](https://git.io/typing-svg)
 
 <img src="https://count.getloli.com/get/@:KPCOFGS" alt=":KPCOFGS" />
 
