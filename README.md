@@ -30,7 +30,6 @@
 [![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/software-download/windows11)
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
 
-<div align="right">
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#7](https://github.com/LLM-Red-Team/emohaa-free-api/issues/7) in [LLM-Red-Team/emohaa-free-api](https://github.com/LLM-Red-Team/emohaa-free-api)
@@ -44,4 +43,3 @@
 9. 💪 Opened PR [#3](https://github.com/LLM-Red-Team/spark-free-api/pull/3) in [LLM-Red-Team/spark-free-api](https://github.com/LLM-Red-Team/spark-free-api)
 10. 💪 Opened PR [#84](https://github.com/LLM-Red-Team/kimi-free-api/pull/84) in [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api)
 <!--END_SECTION:activity-->
-</div>
