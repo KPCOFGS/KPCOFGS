@@ -31,14 +31,5 @@
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
 
 ### ⚡ **Recent Activity**
-
 <!--START_SECTION:activity-->
-
-
-
-
-
-
-
-
 <!--END_SECTION:activity-->
