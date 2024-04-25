@@ -1,7 +1,3 @@
-<a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true">
-</a>
-
 <img align="right" src="github-metrics.svg">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&vCenter=true&width=200&height=40&lines=Hello+World+👋)](https://git.io/typing-svg)
@@ -30,8 +26,9 @@
 [![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/software-download/windows11)
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
 
-
-
+<a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true">
+</a>
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
