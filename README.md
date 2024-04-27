@@ -31,14 +31,14 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#89](https://github.com/LLM-Red-Team/kimi-free-api/pull/89) in [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api)
-2. 💪 Opened PR [#1891](https://github.com/langfuse/langfuse/pull/1891) in [langfuse/langfuse](https://github.com/langfuse/langfuse)
-3. ❗ Opened issue [#47](https://github.com/xelis-project/xelis-blockchain/issues/47) in [xelis-project/xelis-blockchain](https://github.com/xelis-project/xelis-blockchain)
-4. 💪 Opened PR [#224](https://github.com/EricLBuehler/mistral.rs/pull/224) in [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)
-5. 💪 Opened PR [#519](https://github.com/PaddlePaddle/PaddleMIX/pull/519) in [PaddlePaddle/PaddleMIX](https://github.com/PaddlePaddle/PaddleMIX)
-6. 🔒 Closed issue [#512](https://github.com/PaddlePaddle/PaddleMIX/issues/512) in [PaddlePaddle/PaddleMIX](https://github.com/PaddlePaddle/PaddleMIX)
-7. 💪 Opened PR [#340](https://github.com/hpcaitech/Open-Sora/pull/340) in [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)
-8. 💪 Opened PR [#889](https://github.com/tomvanswam/compass-card/pull/889) in [tomvanswam/compass-card](https://github.com/tomvanswam/compass-card)
-9. 💪 Opened PR [#9804](https://github.com/enso-org/enso/pull/9804) in [enso-org/enso](https://github.com/enso-org/enso)
-10. 🔒 Closed issue [#21](https://github.com/github-copilot-resources/copilot-metrics-viewer/issues/21) in [github-copilot-resources/copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer)
+1. ❗ Opened issue [#23](https://github.com/caseyamcl/toc/issues/23) in [caseyamcl/toc](https://github.com/caseyamcl/toc)
+2. ❗ Opened issue [#1](https://github.com/JacobCorey94/AMD-TRNG-Testing/issues/1) in [JacobCorey94/AMD-TRNG-Testing](https://github.com/JacobCorey94/AMD-TRNG-Testing)
+3. ❗ Opened issue [#1](https://github.com/bretsw/job-talk-fsu/issues/1) in [bretsw/job-talk-fsu](https://github.com/bretsw/job-talk-fsu)
+4. ❗ Opened issue [#8](https://github.com/konfound-project/shinykonfound/issues/8) in [konfound-project/shinykonfound](https://github.com/konfound-project/shinykonfound)
+5. 💪 Opened PR [#89](https://github.com/LLM-Red-Team/kimi-free-api/pull/89) in [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api)
+6. 💪 Opened PR [#1891](https://github.com/langfuse/langfuse/pull/1891) in [langfuse/langfuse](https://github.com/langfuse/langfuse)
+7. ❗ Opened issue [#47](https://github.com/xelis-project/xelis-blockchain/issues/47) in [xelis-project/xelis-blockchain](https://github.com/xelis-project/xelis-blockchain)
+8. 💪 Opened PR [#224](https://github.com/EricLBuehler/mistral.rs/pull/224) in [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)
+9. 💪 Opened PR [#519](https://github.com/PaddlePaddle/PaddleMIX/pull/519) in [PaddlePaddle/PaddleMIX](https://github.com/PaddlePaddle/PaddleMIX)
+10. 🔒 Closed issue [#512](https://github.com/PaddlePaddle/PaddleMIX/issues/512) in [PaddlePaddle/PaddleMIX](https://github.com/PaddlePaddle/PaddleMIX)
 <!--END_SECTION:activity-->
