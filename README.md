@@ -31,14 +31,14 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#512](https://github.com/PaddlePaddle/PaddleMIX/issues/512) in [PaddlePaddle/PaddleMIX](https://github.com/PaddlePaddle/PaddleMIX)
-2. 💪 Opened PR [#340](https://github.com/hpcaitech/Open-Sora/pull/340) in [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)
-3. 💪 Opened PR [#889](https://github.com/tomvanswam/compass-card/pull/889) in [tomvanswam/compass-card](https://github.com/tomvanswam/compass-card)
-4. 💪 Opened PR [#9804](https://github.com/enso-org/enso/pull/9804) in [enso-org/enso](https://github.com/enso-org/enso)
-5. 🔒 Closed issue [#21](https://github.com/github-copilot-resources/copilot-metrics-viewer/issues/21) in [github-copilot-resources/copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer)
-6. 🗣 Commented on [#234](https://github.com/great-expectations/cloud/pull/234#issuecomment-2080204560) in [great-expectations/cloud](https://github.com/great-expectations/cloud)
-7. 💪 Opened PR [#234](https://github.com/great-expectations/cloud/pull/234) in [great-expectations/cloud](https://github.com/great-expectations/cloud)
-8. 💪 Opened PR [#92](https://github.com/OxWearables/stepcount/pull/92) in [OxWearables/stepcount](https://github.com/OxWearables/stepcount)
-9. 💪 Opened PR [#11](https://github.com/kharigardner/pyfivetran/pull/11) in [kharigardner/pyfivetran](https://github.com/kharigardner/pyfivetran)
-10. 💪 Opened PR [#148](https://github.com/ashvardanian/StringZilla/pull/148) in [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla)
+1. 💪 Opened PR [#1891](https://github.com/langfuse/langfuse/pull/1891) in [langfuse/langfuse](https://github.com/langfuse/langfuse)
+2. ❗ Opened issue [#47](https://github.com/xelis-project/xelis-blockchain/issues/47) in [xelis-project/xelis-blockchain](https://github.com/xelis-project/xelis-blockchain)
+3. 💪 Opened PR [#224](https://github.com/EricLBuehler/mistral.rs/pull/224) in [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)
+4. 💪 Opened PR [#519](https://github.com/PaddlePaddle/PaddleMIX/pull/519) in [PaddlePaddle/PaddleMIX](https://github.com/PaddlePaddle/PaddleMIX)
+5. 🔒 Closed issue [#512](https://github.com/PaddlePaddle/PaddleMIX/issues/512) in [PaddlePaddle/PaddleMIX](https://github.com/PaddlePaddle/PaddleMIX)
+6. 💪 Opened PR [#340](https://github.com/hpcaitech/Open-Sora/pull/340) in [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)
+7. 💪 Opened PR [#889](https://github.com/tomvanswam/compass-card/pull/889) in [tomvanswam/compass-card](https://github.com/tomvanswam/compass-card)
+8. 💪 Opened PR [#9804](https://github.com/enso-org/enso/pull/9804) in [enso-org/enso](https://github.com/enso-org/enso)
+9. 🔒 Closed issue [#21](https://github.com/github-copilot-resources/copilot-metrics-viewer/issues/21) in [github-copilot-resources/copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer)
+10. 🗣 Commented on [#234](https://github.com/great-expectations/cloud/pull/234#issuecomment-2080204560) in [great-expectations/cloud](https://github.com/great-expectations/cloud)
 <!--END_SECTION:activity-->
