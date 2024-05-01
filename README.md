@@ -31,14 +31,14 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9804](https://github.com/enso-org/enso/pull/9804#issuecomment-2088289767) in [enso-org/enso](https://github.com/enso-org/enso)
-2. ❗ Opened issue [#351](https://github.com/Innei/Shiro/issues/351) in [Innei/Shiro](https://github.com/Innei/Shiro)
-3. 🔒 Closed issue [#2293](https://github.com/lobehub/lobe-chat/issues/2293) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-4. 🗣 Commented on [#2293](https://github.com/lobehub/lobe-chat/issues/2293#issuecomment-2083162045) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-5. 💪 Opened PR [#2298](https://github.com/lobehub/lobe-chat/pull/2298) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-6. ❗ Opened issue [#2293](https://github.com/lobehub/lobe-chat/issues/2293) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-7. 💪 Opened PR [#1247](https://github.com/OpenInterpreter/open-interpreter/pull/1247) in [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
-8. ❗ Opened issue [#751](https://github.com/WhiskeySockets/Baileys/issues/751) in [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys)
-9. 💪 Opened PR [#435](https://github.com/LC044/WeChatMsg/pull/435) in [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg)
-10. 🗣 Commented on [#8909](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pull/8909#issuecomment-2081774402) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+1. ❗ Opened issue [#41](https://github.com/Kapoorlabs-CAPED/NapaTrackMater/issues/41) in [Kapoorlabs-CAPED/NapaTrackMater](https://github.com/Kapoorlabs-CAPED/NapaTrackMater)
+2. 🗣 Commented on [#9804](https://github.com/enso-org/enso/pull/9804#issuecomment-2088289767) in [enso-org/enso](https://github.com/enso-org/enso)
+3. ❗ Opened issue [#351](https://github.com/Innei/Shiro/issues/351) in [Innei/Shiro](https://github.com/Innei/Shiro)
+4. 🔒 Closed issue [#2293](https://github.com/lobehub/lobe-chat/issues/2293) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+5. 🗣 Commented on [#2293](https://github.com/lobehub/lobe-chat/issues/2293#issuecomment-2083162045) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+6. 💪 Opened PR [#2298](https://github.com/lobehub/lobe-chat/pull/2298) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+7. ❗ Opened issue [#2293](https://github.com/lobehub/lobe-chat/issues/2293) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+8. 💪 Opened PR [#1247](https://github.com/OpenInterpreter/open-interpreter/pull/1247) in [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
+9. ❗ Opened issue [#751](https://github.com/WhiskeySockets/Baileys/issues/751) in [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys)
+10. 💪 Opened PR [#435](https://github.com/LC044/WeChatMsg/pull/435) in [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg)
 <!--END_SECTION:activity-->
