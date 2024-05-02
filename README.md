@@ -31,14 +31,14 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#400](https://github.com/vanna-ai/vanna/pull/400) in [vanna-ai/vanna](https://github.com/vanna-ai/vanna)
-2. 💪 Opened PR [#563](https://github.com/graphistry/pygraphistry/pull/563) in [graphistry/pygraphistry](https://github.com/graphistry/pygraphistry)
-3. 💪 Opened PR [#34](https://github.com/aruba/pyaoscx/pull/34) in [aruba/pyaoscx](https://github.com/aruba/pyaoscx)
-4. 💪 Opened PR [#410](https://github.com/argosopentech/argos-translate/pull/410) in [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate)
-5. 💪 Opened PR [#98](https://github.com/Qluxzz/avanza/pull/98) in [Qluxzz/avanza](https://github.com/Qluxzz/avanza)
-6. 💪 Opened PR [#469](https://github.com/EmilStenstrom/django-components/pull/469) in [EmilStenstrom/django-components](https://github.com/EmilStenstrom/django-components)
-7. 💪 Opened PR [#8659](https://github.com/aws/aws-cli/pull/8659) in [aws/aws-cli](https://github.com/aws/aws-cli)
-8. 🗣 Commented on [#1292](https://github.com/marimo-team/marimo/pull/1292#issuecomment-2089030035) in [marimo-team/marimo](https://github.com/marimo-team/marimo)
-9. 💪 Opened PR [#1292](https://github.com/marimo-team/marimo/pull/1292) in [marimo-team/marimo](https://github.com/marimo-team/marimo)
-10. 💪 Opened PR [#2927](https://github.com/hyperledger/aries-cloudagent-python/pull/2927) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 💪 Opened PR [#173](https://github.com/PaulSchweizer/flowpipe/pull/173) in [PaulSchweizer/flowpipe](https://github.com/PaulSchweizer/flowpipe)
+2. 💪 Opened PR [#6231](https://github.com/bridgecrewio/checkov/pull/6231) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+3. 💪 Opened PR [#63](https://github.com/kapt-labs/django-check-seo/pull/63) in [kapt-labs/django-check-seo](https://github.com/kapt-labs/django-check-seo)
+4. 💪 Opened PR [#6093](https://github.com/cylc/cylc-flow/pull/6093) in [cylc/cylc-flow](https://github.com/cylc/cylc-flow)
+5. 💪 Opened PR [#900](https://github.com/pytorch/torchx/pull/900) in [pytorch/torchx](https://github.com/pytorch/torchx)
+6. 💪 Opened PR [#400](https://github.com/vanna-ai/vanna/pull/400) in [vanna-ai/vanna](https://github.com/vanna-ai/vanna)
+7. 💪 Opened PR [#563](https://github.com/graphistry/pygraphistry/pull/563) in [graphistry/pygraphistry](https://github.com/graphistry/pygraphistry)
+8. 💪 Opened PR [#34](https://github.com/aruba/pyaoscx/pull/34) in [aruba/pyaoscx](https://github.com/aruba/pyaoscx)
+9. 💪 Opened PR [#410](https://github.com/argosopentech/argos-translate/pull/410) in [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate)
+10. 💪 Opened PR [#98](https://github.com/Qluxzz/avanza/pull/98) in [Qluxzz/avanza](https://github.com/Qluxzz/avanza)
 <!--END_SECTION:activity-->
