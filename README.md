@@ -31,14 +31,14 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/helviojunior/knowsmore/pull/10) in [helviojunior/knowsmore](https://github.com/helviojunior/knowsmore)
-2. ❗ Opened issue [#1](https://github.com/thejcannon/botocore-a-la-carte/issues/1) in [thejcannon/botocore-a-la-carte](https://github.com/thejcannon/botocore-a-la-carte)
-3. 💪 Opened PR [#89](https://github.com/michaeldavie/env_canada/pull/89) in [michaeldavie/env_canada](https://github.com/michaeldavie/env_canada)
-4. 💪 Opened PR [#148](https://github.com/slacgismo/solar-data-tools/pull/148) in [slacgismo/solar-data-tools](https://github.com/slacgismo/solar-data-tools)
-5. 💪 Opened PR [#152](https://github.com/CybercentreCanada/jupyterlab-sql-editor/pull/152) in [CybercentreCanada/jupyterlab-sql-editor](https://github.com/CybercentreCanada/jupyterlab-sql-editor)
-6. 💪 Opened PR [#173](https://github.com/PaulSchweizer/flowpipe/pull/173) in [PaulSchweizer/flowpipe](https://github.com/PaulSchweizer/flowpipe)
-7. 💪 Opened PR [#6231](https://github.com/bridgecrewio/checkov/pull/6231) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
-8. 💪 Opened PR [#63](https://github.com/kapt-labs/django-check-seo/pull/63) in [kapt-labs/django-check-seo](https://github.com/kapt-labs/django-check-seo)
-9. 💪 Opened PR [#6093](https://github.com/cylc/cylc-flow/pull/6093) in [cylc/cylc-flow](https://github.com/cylc/cylc-flow)
-10. 💪 Opened PR [#900](https://github.com/pytorch/torchx/pull/900) in [pytorch/torchx](https://github.com/pytorch/torchx)
+1. ❌ Closed PR [#82](https://github.com/vikhyat/moondream/pull/82) in [vikhyat/moondream](https://github.com/vikhyat/moondream)
+2. 💪 Opened PR [#10](https://github.com/helviojunior/knowsmore/pull/10) in [helviojunior/knowsmore](https://github.com/helviojunior/knowsmore)
+3. ❗ Opened issue [#1](https://github.com/thejcannon/botocore-a-la-carte/issues/1) in [thejcannon/botocore-a-la-carte](https://github.com/thejcannon/botocore-a-la-carte)
+4. 💪 Opened PR [#89](https://github.com/michaeldavie/env_canada/pull/89) in [michaeldavie/env_canada](https://github.com/michaeldavie/env_canada)
+5. 💪 Opened PR [#148](https://github.com/slacgismo/solar-data-tools/pull/148) in [slacgismo/solar-data-tools](https://github.com/slacgismo/solar-data-tools)
+6. 💪 Opened PR [#152](https://github.com/CybercentreCanada/jupyterlab-sql-editor/pull/152) in [CybercentreCanada/jupyterlab-sql-editor](https://github.com/CybercentreCanada/jupyterlab-sql-editor)
+7. 💪 Opened PR [#173](https://github.com/PaulSchweizer/flowpipe/pull/173) in [PaulSchweizer/flowpipe](https://github.com/PaulSchweizer/flowpipe)
+8. 💪 Opened PR [#6231](https://github.com/bridgecrewio/checkov/pull/6231) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+9. 💪 Opened PR [#63](https://github.com/kapt-labs/django-check-seo/pull/63) in [kapt-labs/django-check-seo](https://github.com/kapt-labs/django-check-seo)
+10. 💪 Opened PR [#6093](https://github.com/cylc/cylc-flow/pull/6093) in [cylc/cylc-flow](https://github.com/cylc/cylc-flow)
 <!--END_SECTION:activity-->
