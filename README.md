@@ -31,14 +31,14 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#889](https://github.com/tomvanswam/compass-card/pull/889) in [tomvanswam/compass-card](https://github.com/tomvanswam/compass-card)
-2. ❌ Closed PR [#22](https://github.com/Doriandarko/maestro/pull/22) in [Doriandarko/maestro](https://github.com/Doriandarko/maestro)
-3. ❌ Closed PR [#1](https://github.com/Sh1n3zZ/Sh1n3zZ/pull/1) in [Sh1n3zZ/Sh1n3zZ](https://github.com/Sh1n3zZ/Sh1n3zZ)
-4. ❌ Closed PR [#134](https://github.com/brave/token-lists/pull/134) in [brave/token-lists](https://github.com/brave/token-lists)
-5. ❌ Closed PR [#1179](https://github.com/facebookresearch/fairscale/pull/1179) in [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale)
-6. ❌ Closed PR [#20](https://github.com/huggingface/parler-tts/pull/20) in [huggingface/parler-tts](https://github.com/huggingface/parler-tts)
-7. ❌ Closed PR [#8909](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pull/8909) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
-8. ❌ Closed PR [#82](https://github.com/vikhyat/moondream/pull/82) in [vikhyat/moondream](https://github.com/vikhyat/moondream)
-9. 💪 Opened PR [#10](https://github.com/helviojunior/knowsmore/pull/10) in [helviojunior/knowsmore](https://github.com/helviojunior/knowsmore)
-10. ❗ Opened issue [#1](https://github.com/thejcannon/botocore-a-la-carte/issues/1) in [thejcannon/botocore-a-la-carte](https://github.com/thejcannon/botocore-a-la-carte)
+1. 💪 Opened PR [#2155](https://github.com/pytorch/rl/pull/2155) in [pytorch/rl](https://github.com/pytorch/rl)
+2. ❌ Closed PR [#889](https://github.com/tomvanswam/compass-card/pull/889) in [tomvanswam/compass-card](https://github.com/tomvanswam/compass-card)
+3. ❌ Closed PR [#22](https://github.com/Doriandarko/maestro/pull/22) in [Doriandarko/maestro](https://github.com/Doriandarko/maestro)
+4. ❌ Closed PR [#1](https://github.com/Sh1n3zZ/Sh1n3zZ/pull/1) in [Sh1n3zZ/Sh1n3zZ](https://github.com/Sh1n3zZ/Sh1n3zZ)
+5. ❌ Closed PR [#134](https://github.com/brave/token-lists/pull/134) in [brave/token-lists](https://github.com/brave/token-lists)
+6. ❌ Closed PR [#1179](https://github.com/facebookresearch/fairscale/pull/1179) in [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale)
+7. ❌ Closed PR [#20](https://github.com/huggingface/parler-tts/pull/20) in [huggingface/parler-tts](https://github.com/huggingface/parler-tts)
+8. ❌ Closed PR [#8909](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pull/8909) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+9. ❌ Closed PR [#82](https://github.com/vikhyat/moondream/pull/82) in [vikhyat/moondream](https://github.com/vikhyat/moondream)
+10. 💪 Opened PR [#10](https://github.com/helviojunior/knowsmore/pull/10) in [helviojunior/knowsmore](https://github.com/helviojunior/knowsmore)
 <!--END_SECTION:activity-->
