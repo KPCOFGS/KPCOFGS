@@ -31,14 +31,14 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/AdityaNG/kan-gpt/issues/13) in [AdityaNG/kan-gpt](https://github.com/AdityaNG/kan-gpt)
-2. 💪 Opened PR [#1142](https://github.com/gpt-engineer-org/gpt-engineer/pull/1142) in [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer)
-3. 🗣 Commented on [#6231](https://github.com/bridgecrewio/checkov/pull/6231#issuecomment-2101570890) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
-4. 💪 Opened PR [#266](https://github.com/DataTalksClub/mlops-zoomcamp/pull/266) in [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
-5. 💪 Opened PR [#283](https://github.com/Skyvern-AI/skyvern/pull/283) in [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)
-6. ❗ Opened issue [#2401](https://github.com/airbnb/lottie-ios/issues/2401) in [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)
-7. 💪 Opened PR [#11326](https://github.com/astral-sh/ruff/pull/11326) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-8. 💪 Opened PR [#473](https://github.com/assafelovic/gpt-researcher/pull/473) in [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
-9. 💪 Opened PR [#226](https://github.com/phidatahq/phidata/pull/226) in [phidatahq/phidata](https://github.com/phidatahq/phidata)
-10. 💪 Opened PR [#148](https://github.com/pydantic/logfire/pull/148) in [pydantic/logfire](https://github.com/pydantic/logfire)
+1. ❗ Opened issue [#2404](https://github.com/FunkinCrew/Funkin/issues/2404) in [FunkinCrew/Funkin](https://github.com/FunkinCrew/Funkin)
+2. ❗ Opened issue [#13](https://github.com/AdityaNG/kan-gpt/issues/13) in [AdityaNG/kan-gpt](https://github.com/AdityaNG/kan-gpt)
+3. 💪 Opened PR [#1142](https://github.com/gpt-engineer-org/gpt-engineer/pull/1142) in [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer)
+4. 🗣 Commented on [#6231](https://github.com/bridgecrewio/checkov/pull/6231#issuecomment-2101570890) in [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov)
+5. 💪 Opened PR [#266](https://github.com/DataTalksClub/mlops-zoomcamp/pull/266) in [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
+6. 💪 Opened PR [#283](https://github.com/Skyvern-AI/skyvern/pull/283) in [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)
+7. ❗ Opened issue [#2401](https://github.com/airbnb/lottie-ios/issues/2401) in [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)
+8. 💪 Opened PR [#11326](https://github.com/astral-sh/ruff/pull/11326) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+9. 💪 Opened PR [#473](https://github.com/assafelovic/gpt-researcher/pull/473) in [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
+10. 💪 Opened PR [#226](https://github.com/phidatahq/phidata/pull/226) in [phidatahq/phidata](https://github.com/phidatahq/phidata)
 <!--END_SECTION:activity-->
