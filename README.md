@@ -20,11 +20,11 @@
 [![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/software-download/windows11)
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
 
-🌐 **Programming Languages**
-
 <a>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true&show=prs_merged">
 </a>
+
+🌐 **Programming Languages**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
