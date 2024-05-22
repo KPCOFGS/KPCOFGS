@@ -20,7 +20,7 @@
 
 [![](https://img.shields.io/badge/LinuxMint-47A248?style=flat-square&logo=linuxmint&logoColor=fff)](https://linuxmint.com/)
 [![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/software-download/windows11)
-[![](https://img.shields.io/badge/NixOS?style=flat-square&logo=nixos)](https://nixos.org/)
+[![](https://img.shields.io/badge/NixOS?style=flat-square&logo=nixos&logoColor=blue)](https://nixos.org/)
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
 
 <a>
