@@ -33,14 +33,14 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1001](https://github.com/modelscope/swift/pull/1001) in [modelscope/swift](https://github.com/modelscope/swift)
-2. 💪 Opened PR [#2021](https://github.com/nucleuscloud/neosync/pull/2021) in [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync)
-3. 💪 Opened PR [#12726](https://github.com/pypa/pip/pull/12726) in [pypa/pip](https://github.com/pypa/pip)
-4. 🗣 Commented on [#1024](https://github.com/doronz88/pymobiledevice3/pull/1024#issuecomment-2126850165) in [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3)
-5. 💪 Opened PR [#5898](https://github.com/cloudflare/workers-sdk/pull/5898) in [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk)
-6. 💪 Opened PR [#1024](https://github.com/doronz88/pymobiledevice3/pull/1024) in [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3)
-7. 💪 Opened PR [#739](https://github.com/khoj-ai/khoj/pull/739) in [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
-8. 💪 Opened PR [#6042](https://github.com/oobabooga/text-generation-webui/pull/6042) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
-9. 💪 Opened PR [#1485](https://github.com/Mintplex-Labs/anything-llm/pull/1485) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-10. ❌ Closed PR [#9946](https://github.com/yt-dlp/yt-dlp/pull/9946) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+1. 🗣 Commented on [#2021](https://github.com/nucleuscloud/neosync/pull/2021#issuecomment-2130186322) in [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync)
+2. 💪 Opened PR [#1001](https://github.com/modelscope/swift/pull/1001) in [modelscope/swift](https://github.com/modelscope/swift)
+3. 💪 Opened PR [#2021](https://github.com/nucleuscloud/neosync/pull/2021) in [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync)
+4. 💪 Opened PR [#12726](https://github.com/pypa/pip/pull/12726) in [pypa/pip](https://github.com/pypa/pip)
+5. 🗣 Commented on [#1024](https://github.com/doronz88/pymobiledevice3/pull/1024#issuecomment-2126850165) in [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3)
+6. 💪 Opened PR [#5898](https://github.com/cloudflare/workers-sdk/pull/5898) in [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk)
+7. 💪 Opened PR [#1024](https://github.com/doronz88/pymobiledevice3/pull/1024) in [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3)
+8. 💪 Opened PR [#739](https://github.com/khoj-ai/khoj/pull/739) in [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
+9. 💪 Opened PR [#6042](https://github.com/oobabooga/text-generation-webui/pull/6042) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+10. 💪 Opened PR [#1485](https://github.com/Mintplex-Labs/anything-llm/pull/1485) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
 <!--END_SECTION:activity-->
