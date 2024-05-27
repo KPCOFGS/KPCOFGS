@@ -33,14 +33,14 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2325](https://github.com/dream-num/univer/pull/2325) in [dream-num/univer](https://github.com/dream-num/univer)
-2. ❌ Closed PR [#884](https://github.com/parea-ai/parea-sdk-py/pull/884) in [parea-ai/parea-sdk-py](https://github.com/parea-ai/parea-sdk-py)
-3. 🗣 Commented on [#2021](https://github.com/nucleuscloud/neosync/pull/2021#issuecomment-2130186322) in [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync)
-4. 💪 Opened PR [#1001](https://github.com/modelscope/swift/pull/1001) in [modelscope/swift](https://github.com/modelscope/swift)
-5. 💪 Opened PR [#2021](https://github.com/nucleuscloud/neosync/pull/2021) in [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync)
-6. 💪 Opened PR [#12726](https://github.com/pypa/pip/pull/12726) in [pypa/pip](https://github.com/pypa/pip)
-7. 🗣 Commented on [#1024](https://github.com/doronz88/pymobiledevice3/pull/1024#issuecomment-2126850165) in [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3)
-8. 💪 Opened PR [#5898](https://github.com/cloudflare/workers-sdk/pull/5898) in [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk)
-9. 💪 Opened PR [#1024](https://github.com/doronz88/pymobiledevice3/pull/1024) in [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3)
-10. 💪 Opened PR [#739](https://github.com/khoj-ai/khoj/pull/739) in [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
+1. ❌ Closed PR [#152](https://github.com/CybercentreCanada/jupyterlab-sql-editor/pull/152) in [CybercentreCanada/jupyterlab-sql-editor](https://github.com/CybercentreCanada/jupyterlab-sql-editor)
+2. ❌ Closed PR [#173](https://github.com/PaulSchweizer/flowpipe/pull/173) in [PaulSchweizer/flowpipe](https://github.com/PaulSchweizer/flowpipe)
+3. ❌ Closed PR [#63](https://github.com/kapt-labs/django-check-seo/pull/63) in [kapt-labs/django-check-seo](https://github.com/kapt-labs/django-check-seo)
+4. ❌ Closed PR [#34](https://github.com/aruba/pyaoscx/pull/34) in [aruba/pyaoscx](https://github.com/aruba/pyaoscx)
+5. 🗣 Commented on [#2325](https://github.com/dream-num/univer/pull/2325#issuecomment-2133274183) in [dream-num/univer](https://github.com/dream-num/univer)
+6. 💪 Opened PR [#2325](https://github.com/dream-num/univer/pull/2325) in [dream-num/univer](https://github.com/dream-num/univer)
+7. ❌ Closed PR [#884](https://github.com/parea-ai/parea-sdk-py/pull/884) in [parea-ai/parea-sdk-py](https://github.com/parea-ai/parea-sdk-py)
+8. 🗣 Commented on [#2021](https://github.com/nucleuscloud/neosync/pull/2021#issuecomment-2130186322) in [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync)
+9. 💪 Opened PR [#1001](https://github.com/modelscope/swift/pull/1001) in [modelscope/swift](https://github.com/modelscope/swift)
+10. 💪 Opened PR [#2021](https://github.com/nucleuscloud/neosync/pull/2021) in [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync)
 <!--END_SECTION:activity-->
