@@ -33,14 +33,14 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#152](https://github.com/CybercentreCanada/jupyterlab-sql-editor/pull/152) in [CybercentreCanada/jupyterlab-sql-editor](https://github.com/CybercentreCanada/jupyterlab-sql-editor)
-2. ❌ Closed PR [#173](https://github.com/PaulSchweizer/flowpipe/pull/173) in [PaulSchweizer/flowpipe](https://github.com/PaulSchweizer/flowpipe)
-3. ❌ Closed PR [#63](https://github.com/kapt-labs/django-check-seo/pull/63) in [kapt-labs/django-check-seo](https://github.com/kapt-labs/django-check-seo)
-4. ❌ Closed PR [#34](https://github.com/aruba/pyaoscx/pull/34) in [aruba/pyaoscx](https://github.com/aruba/pyaoscx)
-5. 🗣 Commented on [#2325](https://github.com/dream-num/univer/pull/2325#issuecomment-2133274183) in [dream-num/univer](https://github.com/dream-num/univer)
-6. 💪 Opened PR [#2325](https://github.com/dream-num/univer/pull/2325) in [dream-num/univer](https://github.com/dream-num/univer)
-7. ❌ Closed PR [#884](https://github.com/parea-ai/parea-sdk-py/pull/884) in [parea-ai/parea-sdk-py](https://github.com/parea-ai/parea-sdk-py)
-8. 🗣 Commented on [#2021](https://github.com/nucleuscloud/neosync/pull/2021#issuecomment-2130186322) in [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync)
-9. 💪 Opened PR [#1001](https://github.com/modelscope/swift/pull/1001) in [modelscope/swift](https://github.com/modelscope/swift)
-10. 💪 Opened PR [#2021](https://github.com/nucleuscloud/neosync/pull/2021) in [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync)
+1. 💪 Opened PR [#262](https://github.com/lavague-ai/LaVague/pull/262) in [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague)
+2. ❌ Closed PR [#152](https://github.com/CybercentreCanada/jupyterlab-sql-editor/pull/152) in [CybercentreCanada/jupyterlab-sql-editor](https://github.com/CybercentreCanada/jupyterlab-sql-editor)
+3. ❌ Closed PR [#173](https://github.com/PaulSchweizer/flowpipe/pull/173) in [PaulSchweizer/flowpipe](https://github.com/PaulSchweizer/flowpipe)
+4. ❌ Closed PR [#63](https://github.com/kapt-labs/django-check-seo/pull/63) in [kapt-labs/django-check-seo](https://github.com/kapt-labs/django-check-seo)
+5. ❌ Closed PR [#34](https://github.com/aruba/pyaoscx/pull/34) in [aruba/pyaoscx](https://github.com/aruba/pyaoscx)
+6. 🗣 Commented on [#2325](https://github.com/dream-num/univer/pull/2325#issuecomment-2133274183) in [dream-num/univer](https://github.com/dream-num/univer)
+7. 💪 Opened PR [#2325](https://github.com/dream-num/univer/pull/2325) in [dream-num/univer](https://github.com/dream-num/univer)
+8. ❌ Closed PR [#884](https://github.com/parea-ai/parea-sdk-py/pull/884) in [parea-ai/parea-sdk-py](https://github.com/parea-ai/parea-sdk-py)
+9. 🗣 Commented on [#2021](https://github.com/nucleuscloud/neosync/pull/2021#issuecomment-2130186322) in [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync)
+10. 💪 Opened PR [#1001](https://github.com/modelscope/swift/pull/1001) in [modelscope/swift](https://github.com/modelscope/swift)
 <!--END_SECTION:activity-->
