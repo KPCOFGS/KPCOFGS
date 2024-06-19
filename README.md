@@ -32,8 +32,8 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#659](https://github.com/cdklabs/cdk-ecr-deployment/pull/659) in [cdklabs/cdk-ecr-deployment](https://github.com/cdklabs/cdk-ecr-deployment)
-2. ❌ Closed PR [#14](https://github.com/VikParuchuri/texify/pull/14) in [VikParuchuri/texify](https://github.com/VikParuchuri/texify)
+1. ❌ Closed PR [#410](https://github.com/argosopentech/argos-translate/pull/410) in [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate)
+2. ❌ Closed PR [#659](https://github.com/cdklabs/cdk-ecr-deployment/pull/659) in [cdklabs/cdk-ecr-deployment](https://github.com/cdklabs/cdk-ecr-deployment)
 3. 🗣 Commented on [#5898](https://github.com/cloudflare/workers-sdk/pull/5898#issuecomment-2139329666) in [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk)
 4. 💪 Opened PR [#262](https://github.com/lavague-ai/LaVague/pull/262) in [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague)
 5. ❌ Closed PR [#152](https://github.com/CybercentreCanada/jupyterlab-sql-editor/pull/152) in [CybercentreCanada/jupyterlab-sql-editor](https://github.com/CybercentreCanada/jupyterlab-sql-editor)
