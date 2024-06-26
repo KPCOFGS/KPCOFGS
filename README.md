@@ -10,8 +10,6 @@
 
 🔥 **I'm very passionate about Machine Learning and Deep Learning**
 
-📫 **How to reach me: sxs22@fsu.edu**
-
 🌐 **My [Website](https://shixianshengcom.wordpress.com/)**
 
 ### ✨ **My Skills**
