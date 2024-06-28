@@ -30,11 +30,11 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4613](https://github.com/astral-sh/uv/pull/4613) in [astral-sh/uv](https://github.com/astral-sh/uv)
-2. ❌ Closed PR [#6042](https://github.com/oobabooga/text-generation-webui/pull/6042) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
-3. ❌ Closed PR [#410](https://github.com/argosopentech/argos-translate/pull/410) in [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate)
-4. ❌ Closed PR [#659](https://github.com/cdklabs/cdk-ecr-deployment/pull/659) in [cdklabs/cdk-ecr-deployment](https://github.com/cdklabs/cdk-ecr-deployment)
-5. ❌ Closed PR [#152](https://github.com/CybercentreCanada/jupyterlab-sql-editor/pull/152) in [CybercentreCanada/jupyterlab-sql-editor](https://github.com/CybercentreCanada/jupyterlab-sql-editor)
+1. ❌ Closed PR [#4613](https://github.com/astral-sh/uv/pull/4613) in [astral-sh/uv](https://github.com/astral-sh/uv)
+2. 💪 Opened PR [#4613](https://github.com/astral-sh/uv/pull/4613) in [astral-sh/uv](https://github.com/astral-sh/uv)
+3. ❌ Closed PR [#6042](https://github.com/oobabooga/text-generation-webui/pull/6042) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+4. ❌ Closed PR [#410](https://github.com/argosopentech/argos-translate/pull/410) in [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate)
+5. ❌ Closed PR [#659](https://github.com/cdklabs/cdk-ecr-deployment/pull/659) in [cdklabs/cdk-ecr-deployment](https://github.com/cdklabs/cdk-ecr-deployment)
 6. ❌ Closed PR [#173](https://github.com/PaulSchweizer/flowpipe/pull/173) in [PaulSchweizer/flowpipe](https://github.com/PaulSchweizer/flowpipe)
 7. ❌ Closed PR [#63](https://github.com/kapt-labs/django-check-seo/pull/63) in [kapt-labs/django-check-seo](https://github.com/kapt-labs/django-check-seo)
 8. ❌ Closed PR [#34](https://github.com/aruba/pyaoscx/pull/34) in [aruba/pyaoscx](https://github.com/aruba/pyaoscx)
