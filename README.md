@@ -12,7 +12,7 @@
 
 🌐 **My [Website](https://shixianshengcom.wordpress.com/)**
 
-📬 **You can reach me via [email](shixian_sheng-2@protonmail.com)**
+📬 **You can reach me via [email](mailto:shixian_sheng-2@protonmail.com)**
 
 ### ✨ **My Skills**
 
