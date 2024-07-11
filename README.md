@@ -10,7 +10,7 @@
 
 🔥 **I'm very passionate about Machine Learning and Deep Learning**
 
-🌐 **My [Website](https://shixianshengcom.wordpress.com/)**
+🌐 **My [Website](https://kpcofgs.github.io/)**
 
 📬 **You can reach me via [email](mailto:shixian_sheng-2@protonmail.com)**
 
