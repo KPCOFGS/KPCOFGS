@@ -32,14 +32,14 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3902](https://github.com/oobabooga/text-generation-webui/issues/3902#issuecomment-2214683629) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
-2. 🗣 Commented on [#4735](https://github.com/oobabooga/text-generation-webui/issues/4735#issuecomment-2213975347) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
-3. 🗣 Commented on [#4159](https://github.com/FreeTubeApp/FreeTube/issues/4159#issuecomment-2212524085) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-4. 💪 Opened PR [#327](https://github.com/fishaudio/fish-speech/pull/327) in [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
-5. ❌ Closed PR [#4613](https://github.com/astral-sh/uv/pull/4613) in [astral-sh/uv](https://github.com/astral-sh/uv)
-6. 💪 Opened PR [#4613](https://github.com/astral-sh/uv/pull/4613) in [astral-sh/uv](https://github.com/astral-sh/uv)
-7. ❌ Closed PR [#6042](https://github.com/oobabooga/text-generation-webui/pull/6042) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
-8. ❌ Closed PR [#410](https://github.com/argosopentech/argos-translate/pull/410) in [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate)
+1. 🗣 Commented on [#3917](https://github.com/oven-sh/bun/issues/3917#issuecomment-2227042886) in [oven-sh/bun](https://github.com/oven-sh/bun)
+2. 🗣 Commented on [#3902](https://github.com/oobabooga/text-generation-webui/issues/3902#issuecomment-2214683629) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+3. 🗣 Commented on [#4735](https://github.com/oobabooga/text-generation-webui/issues/4735#issuecomment-2213975347) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+4. 🗣 Commented on [#4159](https://github.com/FreeTubeApp/FreeTube/issues/4159#issuecomment-2212524085) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+5. 💪 Opened PR [#327](https://github.com/fishaudio/fish-speech/pull/327) in [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
+6. ❌ Closed PR [#4613](https://github.com/astral-sh/uv/pull/4613) in [astral-sh/uv](https://github.com/astral-sh/uv)
+7. 💪 Opened PR [#4613](https://github.com/astral-sh/uv/pull/4613) in [astral-sh/uv](https://github.com/astral-sh/uv)
+8. ❌ Closed PR [#6042](https://github.com/oobabooga/text-generation-webui/pull/6042) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 9. 🗣 Commented on [#2325](https://github.com/dream-num/univer/pull/2325#issuecomment-2133274183) in [dream-num/univer](https://github.com/dream-num/univer)
 10. 💪 Opened PR [#2325](https://github.com/dream-num/univer/pull/2325) in [dream-num/univer](https://github.com/dream-num/univer)
 <!--END_SECTION:activity-->
