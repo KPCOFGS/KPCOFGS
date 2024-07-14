@@ -6,7 +6,7 @@
 
 🌍 **I’m currently working at FSU FREAC on ArcGIS projects**
 
-🌱 **I’m currently learning Typescript, C++, Python and Rust**
+🌱 **I’m currently learning Typescript, Python and Rust**
 
 🔥 **I'm very passionate about Machine Learning and Deep Learning**
 
