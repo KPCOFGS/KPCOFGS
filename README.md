@@ -16,20 +16,18 @@
 
 ### ✨ **My Skills**
 
-🖥️ **Operating Systems**
-
 [![](https://img.shields.io/badge/LinuxMint-47A248?style=flat-square&logo=linuxmint&logoColor=fff)](https://linuxmint.com/)
 [![](https://img.shields.io/badge/MXLinux-000000?style=flat-square&logo=mxlinux&logoColor=fff)](https://mxlinux.org/)
 [![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)](https://www.microsoft.com/software-download/windows11)
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/download)
+![](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/HTML-E34C26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-563D7C?style=flat-square&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 <a>
     <img align="right" height=210px src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true&show=prs_merged">
 </a>
-
-🌐 **Programming Languages**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KPCOFGS&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
