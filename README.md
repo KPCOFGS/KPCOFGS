@@ -30,12 +30,12 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5681](https://github.com/FreeTubeApp/FreeTube/issues/5681#issuecomment-2351043203) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-2. 🗣 Commented on [#5681](https://github.com/FreeTubeApp/FreeTube/issues/5681#issuecomment-2345893113) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-3. ❗ Opened issue [#5681](https://github.com/FreeTubeApp/FreeTube/issues/5681) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-4. 🎉 Merged PR [#1](https://github.com/KPCOFGS/hello-world/pull/1) in [KPCOFGS/hello-world](https://github.com/KPCOFGS/hello-world)
-5. 💪 Opened PR [#1](https://github.com/KPCOFGS/hello-world/pull/1) in [KPCOFGS/hello-world](https://github.com/KPCOFGS/hello-world)
-6. 🔒 Closed issue [#925](https://github.com/zen-browser/desktop/issues/925) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+1. ❗ Opened issue [#5](https://github.com/KPCOFGS/Group_One_Project/issues/5) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
+2. 🗣 Commented on [#5681](https://github.com/FreeTubeApp/FreeTube/issues/5681#issuecomment-2351043203) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+3. 🗣 Commented on [#5681](https://github.com/FreeTubeApp/FreeTube/issues/5681#issuecomment-2345893113) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+4. ❗ Opened issue [#5681](https://github.com/FreeTubeApp/FreeTube/issues/5681) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+5. 🎉 Merged PR [#1](https://github.com/KPCOFGS/hello-world/pull/1) in [KPCOFGS/hello-world](https://github.com/KPCOFGS/hello-world)
+6. 💪 Opened PR [#1](https://github.com/KPCOFGS/hello-world/pull/1) in [KPCOFGS/hello-world](https://github.com/KPCOFGS/hello-world)
 7. 🗣 Commented on [#925](https://github.com/zen-browser/desktop/issues/925#issuecomment-2310922736) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
 8. ❗ Opened issue [#925](https://github.com/zen-browser/desktop/issues/925) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
 9. 💪 Opened PR [#26](https://github.com/zen-browser/l10n-packs/pull/26) in [zen-browser/l10n-packs](https://github.com/zen-browser/l10n-packs)
