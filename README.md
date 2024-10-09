@@ -30,14 +30,14 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/KPCOFGS/Group_One_Project/pull/7) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
-2. 💪 Opened PR [#7](https://github.com/KPCOFGS/Group_One_Project/pull/7) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
-3. 🗣 Commented on [#6](https://github.com/KPCOFGS/Group_One_Project/issues/6#issuecomment-2400668366) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
-4. 🔒 Closed issue [#6](https://github.com/KPCOFGS/Group_One_Project/issues/6) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
-5. ❗ Opened issue [#6](https://github.com/KPCOFGS/Group_One_Project/issues/6) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
-6. ❗ Opened issue [#5](https://github.com/KPCOFGS/Group_One_Project/issues/5) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
-7. 🗣 Commented on [#5681](https://github.com/FreeTubeApp/FreeTube/issues/5681#issuecomment-2351043203) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-8. 🗣 Commented on [#5681](https://github.com/FreeTubeApp/FreeTube/issues/5681#issuecomment-2345893113) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-9. ❗ Opened issue [#5681](https://github.com/FreeTubeApp/FreeTube/issues/5681) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-10. ❗ Opened issue [#661](https://github.com/zen-browser/desktop/issues/661) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+1. 🗣 Commented on [#5](https://github.com/KPCOFGS/BetBuddy/issues/5#issuecomment-2400740340) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+2. 🔒 Closed issue [#5](https://github.com/KPCOFGS/BetBuddy/issues/5) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+3. 🎉 Merged PR [#7](https://github.com/KPCOFGS/Group_One_Project/pull/7) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
+4. 💪 Opened PR [#7](https://github.com/KPCOFGS/Group_One_Project/pull/7) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
+5. 🗣 Commented on [#6](https://github.com/KPCOFGS/Group_One_Project/issues/6#issuecomment-2400668366) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
+6. 🔒 Closed issue [#6](https://github.com/KPCOFGS/Group_One_Project/issues/6) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
+7. ❗ Opened issue [#6](https://github.com/KPCOFGS/Group_One_Project/issues/6) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
+8. ❗ Opened issue [#5](https://github.com/KPCOFGS/Group_One_Project/issues/5) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
+9. 🗣 Commented on [#5681](https://github.com/FreeTubeApp/FreeTube/issues/5681#issuecomment-2351043203) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+10. 🗣 Commented on [#5681](https://github.com/FreeTubeApp/FreeTube/issues/5681#issuecomment-2345893113) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 <!--END_SECTION:activity-->
