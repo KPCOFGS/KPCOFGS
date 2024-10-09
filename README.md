@@ -30,14 +30,14 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/KPCOFGS/Group_One_Project/issues/6#issuecomment-2400668366) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
-2. 🔒 Closed issue [#6](https://github.com/KPCOFGS/Group_One_Project/issues/6) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
-3. ❗ Opened issue [#6](https://github.com/KPCOFGS/Group_One_Project/issues/6) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
-4. ❗ Opened issue [#5](https://github.com/KPCOFGS/Group_One_Project/issues/5) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
-5. 🗣 Commented on [#5681](https://github.com/FreeTubeApp/FreeTube/issues/5681#issuecomment-2351043203) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-6. 🗣 Commented on [#5681](https://github.com/FreeTubeApp/FreeTube/issues/5681#issuecomment-2345893113) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-7. ❗ Opened issue [#5681](https://github.com/FreeTubeApp/FreeTube/issues/5681) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-8. ❗ Opened issue [#925](https://github.com/zen-browser/desktop/issues/925) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-9. 💪 Opened PR [#26](https://github.com/zen-browser/l10n-packs/pull/26) in [zen-browser/l10n-packs](https://github.com/zen-browser/l10n-packs)
+1. 🎉 Merged PR [#7](https://github.com/KPCOFGS/Group_One_Project/pull/7) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
+2. 💪 Opened PR [#7](https://github.com/KPCOFGS/Group_One_Project/pull/7) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
+3. 🗣 Commented on [#6](https://github.com/KPCOFGS/Group_One_Project/issues/6#issuecomment-2400668366) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
+4. 🔒 Closed issue [#6](https://github.com/KPCOFGS/Group_One_Project/issues/6) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
+5. ❗ Opened issue [#6](https://github.com/KPCOFGS/Group_One_Project/issues/6) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
+6. ❗ Opened issue [#5](https://github.com/KPCOFGS/Group_One_Project/issues/5) in [KPCOFGS/Group_One_Project](https://github.com/KPCOFGS/Group_One_Project)
+7. 🗣 Commented on [#5681](https://github.com/FreeTubeApp/FreeTube/issues/5681#issuecomment-2351043203) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+8. 🗣 Commented on [#5681](https://github.com/FreeTubeApp/FreeTube/issues/5681#issuecomment-2345893113) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+9. ❗ Opened issue [#5681](https://github.com/FreeTubeApp/FreeTube/issues/5681) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 10. ❗ Opened issue [#661](https://github.com/zen-browser/desktop/issues/661) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
 <!--END_SECTION:activity-->
