@@ -30,14 +30,14 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#24](https://github.com/KPCOFGS/BetBuddy/issues/24) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-2. ❗ Opened issue [#23](https://github.com/KPCOFGS/BetBuddy/issues/23) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-3. ❗ Opened issue [#22](https://github.com/KPCOFGS/BetBuddy/issues/22) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-4. ❗ Opened issue [#21](https://github.com/KPCOFGS/BetBuddy/issues/21) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-5. ❗ Opened issue [#20](https://github.com/KPCOFGS/BetBuddy/issues/20) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-6. ❗ Opened issue [#19](https://github.com/KPCOFGS/BetBuddy/issues/19) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-7. ❗ Opened issue [#18](https://github.com/KPCOFGS/BetBuddy/issues/18) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-8. 🔒 Closed issue [#16](https://github.com/KPCOFGS/BetBuddy/issues/16) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-9. 🔒 Closed issue [#15](https://github.com/KPCOFGS/BetBuddy/issues/15) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-10. 🎉 Merged PR [#17](https://github.com/KPCOFGS/BetBuddy/pull/17) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+1. 🗣 Commented on [#10](https://github.com/KPCOFGS/BetBuddy/issues/10#issuecomment-2405896522) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+2. 🎉 Merged PR [#26](https://github.com/KPCOFGS/BetBuddy/pull/26) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+3. 💪 Opened PR [#26](https://github.com/KPCOFGS/BetBuddy/pull/26) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+4. ❗ Opened issue [#24](https://github.com/KPCOFGS/BetBuddy/issues/24) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+5. ❗ Opened issue [#23](https://github.com/KPCOFGS/BetBuddy/issues/23) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+6. ❗ Opened issue [#22](https://github.com/KPCOFGS/BetBuddy/issues/22) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+7. ❗ Opened issue [#21](https://github.com/KPCOFGS/BetBuddy/issues/21) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+8. ❗ Opened issue [#20](https://github.com/KPCOFGS/BetBuddy/issues/20) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+9. ❗ Opened issue [#19](https://github.com/KPCOFGS/BetBuddy/issues/19) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+10. ❗ Opened issue [#18](https://github.com/KPCOFGS/BetBuddy/issues/18) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
 <!--END_SECTION:activity-->
