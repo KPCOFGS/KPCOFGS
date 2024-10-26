@@ -28,14 +28,14 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#975](https://github.com/flareteam/flare-game/issues/975) in [flareteam/flare-game](https://github.com/flareteam/flare-game)
-2. ❗ Opened issue [#975](https://github.com/flareteam/flare-game/issues/975) in [flareteam/flare-game](https://github.com/flareteam/flare-game)
-3. ❗ Opened issue [#33](https://github.com/KPCOFGS/BetBuddy/issues/33) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-4. 🗣 Commented on [#31](https://github.com/KPCOFGS/BetBuddy/issues/31#issuecomment-2408044611) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-5. 🔒 Closed issue [#31](https://github.com/KPCOFGS/BetBuddy/issues/31) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-6. 🎉 Merged PR [#32](https://github.com/KPCOFGS/BetBuddy/pull/32) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-7. 💪 Opened PR [#32](https://github.com/KPCOFGS/BetBuddy/pull/32) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-8. ❗ Opened issue [#31](https://github.com/KPCOFGS/BetBuddy/issues/31) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-9. 🗣 Commented on [#30](https://github.com/KPCOFGS/BetBuddy/issues/30#issuecomment-2407697791) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-10. 🔒 Closed issue [#10](https://github.com/KPCOFGS/BetBuddy/issues/10) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+1. ❗ Opened issue [#35](https://github.com/KPCOFGS/BetBuddy/issues/35) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+2. 🔒 Closed issue [#975](https://github.com/flareteam/flare-game/issues/975) in [flareteam/flare-game](https://github.com/flareteam/flare-game)
+3. ❗ Opened issue [#975](https://github.com/flareteam/flare-game/issues/975) in [flareteam/flare-game](https://github.com/flareteam/flare-game)
+4. ❗ Opened issue [#33](https://github.com/KPCOFGS/BetBuddy/issues/33) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+5. 🗣 Commented on [#31](https://github.com/KPCOFGS/BetBuddy/issues/31#issuecomment-2408044611) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+6. 🔒 Closed issue [#31](https://github.com/KPCOFGS/BetBuddy/issues/31) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+7. 🎉 Merged PR [#32](https://github.com/KPCOFGS/BetBuddy/pull/32) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+8. 💪 Opened PR [#32](https://github.com/KPCOFGS/BetBuddy/pull/32) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+9. ❗ Opened issue [#31](https://github.com/KPCOFGS/BetBuddy/issues/31) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+10. 🗣 Commented on [#30](https://github.com/KPCOFGS/BetBuddy/issues/30#issuecomment-2407697791) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
 <!--END_SECTION:activity-->
