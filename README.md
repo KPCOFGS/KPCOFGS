@@ -26,14 +26,14 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/KPCOFGS/BetBuddy/issues/22#issuecomment-2506768458) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-2. 🔒 Closed issue [#22](https://github.com/KPCOFGS/BetBuddy/issues/22) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-3. 🔒 Closed issue [#9](https://github.com/KPCOFGS/BetBuddy/issues/9) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-4. 🔒 Closed issue [#19](https://github.com/KPCOFGS/BetBuddy/issues/19) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-5. 🗣 Commented on [#19](https://github.com/KPCOFGS/BetBuddy/issues/19#issuecomment-2506767927) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-6. 🔒 Closed issue [#20](https://github.com/KPCOFGS/BetBuddy/issues/20) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
-7. ❗ Opened issue [#6441](https://github.com/wez/wezterm/issues/6441) in [wez/wezterm](https://github.com/wez/wezterm)
-8. ❗ Opened issue [#6074](https://github.com/FreeTubeApp/FreeTube/issues/6074) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-9. 🗣 Commented on [#5975](https://github.com/FreeTubeApp/FreeTube/issues/5975#issuecomment-2452769134) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
-10. 🔒 Closed issue [#33](https://github.com/KPCOFGS/BetBuddy/issues/33) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+1. 🔒 Closed issue [#24](https://github.com/KPCOFGS/BetBuddy/issues/24) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+2. 🔒 Closed issue [#18](https://github.com/KPCOFGS/BetBuddy/issues/18) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+3. 🗣 Commented on [#18](https://github.com/KPCOFGS/BetBuddy/issues/18#issuecomment-2514538630) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+4. 🗣 Commented on [#22](https://github.com/KPCOFGS/BetBuddy/issues/22#issuecomment-2506768458) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+5. 🔒 Closed issue [#22](https://github.com/KPCOFGS/BetBuddy/issues/22) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+6. 🔒 Closed issue [#9](https://github.com/KPCOFGS/BetBuddy/issues/9) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+7. 🔒 Closed issue [#19](https://github.com/KPCOFGS/BetBuddy/issues/19) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+8. 🗣 Commented on [#19](https://github.com/KPCOFGS/BetBuddy/issues/19#issuecomment-2506767927) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+9. 🔒 Closed issue [#20](https://github.com/KPCOFGS/BetBuddy/issues/20) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
+10. ❗ Opened issue [#6441](https://github.com/wez/wezterm/issues/6441) in [wez/wezterm](https://github.com/wez/wezterm)
 <!--END_SECTION:activity-->
