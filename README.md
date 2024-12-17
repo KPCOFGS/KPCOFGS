@@ -4,7 +4,7 @@
 
 🌱 **I’m currently learning Typescript, Python and Rust**
 
-🔥 **I'm very passionate about Linux, System Admin and Artificial Intelligence**
+🔥 **I'm very passionate about Linux, System Admin, Programming and Artificial Intelligence**
 
 🌐 **My [Website](https://kpcofgs.github.io/)**
 
