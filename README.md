@@ -28,9 +28,11 @@
 10. 🗣 Commented on [#64](https://github.com/KPCOFGS/BetBuddy/pull/64#issuecomment-2536997614) in [KPCOFGS/BetBuddy](https://github.com/KPCOFGS/BetBuddy)
 <!--END_SECTION:activity-->
 
+<div align="center">
+    
 ### ✨ **My Skills**
 
-<div align="left">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
