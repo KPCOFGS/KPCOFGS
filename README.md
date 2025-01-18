@@ -16,16 +16,16 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#501](https://github.com/GitHubDaily/GitHubDaily/pull/501) in [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
-2. ❌ Closed PR [#7](https://github.com/LoveDaisy/tetris_game/pull/7) in [LoveDaisy/tetris_game](https://github.com/LoveDaisy/tetris_game)
-3. 💪 Opened PR [#501](https://github.com/GitHubDaily/GitHubDaily/pull/501) in [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
-4. 🗣 Commented on [#436](https://github.com/Genesis-Embodied-AI/Genesis/pull/436#issuecomment-2567233185) in [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
-5. 🗣 Commented on [#3357](https://github.com/nomic-ai/gpt4all/pull/3357#issuecomment-2567232876) in [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
-6. ❌ Closed PR [#436](https://github.com/Genesis-Embodied-AI/Genesis/pull/436) in [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
-7. ❌ Closed PR [#3357](https://github.com/nomic-ai/gpt4all/pull/3357) in [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
-8. 💪 Opened PR [#3357](https://github.com/nomic-ai/gpt4all/pull/3357) in [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
-9. 💪 Opened PR [#436](https://github.com/Genesis-Embodied-AI/Genesis/pull/436) in [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
-10. 🔒 Closed issue [#5681](https://github.com/FreeTubeApp/FreeTube/issues/5681) in [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
+1. ❗ Opened issue [#12649](https://github.com/linuxmint/cinnamon/issues/12649) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
+2. ❌ Closed PR [#501](https://github.com/GitHubDaily/GitHubDaily/pull/501) in [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+3. ❌ Closed PR [#7](https://github.com/LoveDaisy/tetris_game/pull/7) in [LoveDaisy/tetris_game](https://github.com/LoveDaisy/tetris_game)
+4. 💪 Opened PR [#501](https://github.com/GitHubDaily/GitHubDaily/pull/501) in [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+5. 🗣 Commented on [#436](https://github.com/Genesis-Embodied-AI/Genesis/pull/436#issuecomment-2567233185) in [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
+6. 🗣 Commented on [#3357](https://github.com/nomic-ai/gpt4all/pull/3357#issuecomment-2567232876) in [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
+7. ❌ Closed PR [#436](https://github.com/Genesis-Embodied-AI/Genesis/pull/436) in [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
+8. ❌ Closed PR [#3357](https://github.com/nomic-ai/gpt4all/pull/3357) in [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
+9. 💪 Opened PR [#3357](https://github.com/nomic-ai/gpt4all/pull/3357) in [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
+10. 💪 Opened PR [#436](https://github.com/Genesis-Embodied-AI/Genesis/pull/436) in [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
 <!--END_SECTION:activity-->
 
 <div align="center">
