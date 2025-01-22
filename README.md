@@ -16,16 +16,16 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3620](https://github.com/lapce/lapce/issues/3620) in [lapce/lapce](https://github.com/lapce/lapce)
-2. 🗣 Commented on [#13](https://github.com/catppuccin/lapce/issues/13#issuecomment-2606145119) in [catppuccin/lapce](https://github.com/catppuccin/lapce)
-3. ❗ Opened issue [#3619](https://github.com/lapce/lapce/issues/3619) in [lapce/lapce](https://github.com/lapce/lapce)
-4. ❗ Opened issue [#13](https://github.com/catppuccin/lapce/issues/13) in [catppuccin/lapce](https://github.com/catppuccin/lapce)
-5. ❗ Opened issue [#12649](https://github.com/linuxmint/cinnamon/issues/12649) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
-6. ❌ Closed PR [#501](https://github.com/GitHubDaily/GitHubDaily/pull/501) in [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
-7. ❌ Closed PR [#7](https://github.com/LoveDaisy/tetris_game/pull/7) in [LoveDaisy/tetris_game](https://github.com/LoveDaisy/tetris_game)
-8. 💪 Opened PR [#501](https://github.com/GitHubDaily/GitHubDaily/pull/501) in [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
-9. 🗣 Commented on [#436](https://github.com/Genesis-Embodied-AI/Genesis/pull/436#issuecomment-2567233185) in [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis)
-10. 🗣 Commented on [#3357](https://github.com/nomic-ai/gpt4all/pull/3357#issuecomment-2567232876) in [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
+1. 🔒 Closed issue [#13](https://github.com/catppuccin/lapce/issues/13) in [catppuccin/lapce](https://github.com/catppuccin/lapce)
+2. 🗣 Commented on [#13](https://github.com/catppuccin/lapce/issues/13#issuecomment-2606162280) in [catppuccin/lapce](https://github.com/catppuccin/lapce)
+3. ❗ Opened issue [#3620](https://github.com/lapce/lapce/issues/3620) in [lapce/lapce](https://github.com/lapce/lapce)
+4. 🗣 Commented on [#13](https://github.com/catppuccin/lapce/issues/13#issuecomment-2606145119) in [catppuccin/lapce](https://github.com/catppuccin/lapce)
+5. ❗ Opened issue [#3619](https://github.com/lapce/lapce/issues/3619) in [lapce/lapce](https://github.com/lapce/lapce)
+6. ❗ Opened issue [#13](https://github.com/catppuccin/lapce/issues/13) in [catppuccin/lapce](https://github.com/catppuccin/lapce)
+7. ❗ Opened issue [#12649](https://github.com/linuxmint/cinnamon/issues/12649) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
+8. ❌ Closed PR [#501](https://github.com/GitHubDaily/GitHubDaily/pull/501) in [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+9. ❌ Closed PR [#7](https://github.com/LoveDaisy/tetris_game/pull/7) in [LoveDaisy/tetris_game](https://github.com/LoveDaisy/tetris_game)
+10. 💪 Opened PR [#501](https://github.com/GitHubDaily/GitHubDaily/pull/501) in [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
 <!--END_SECTION:activity-->
 
 <div align="center">
