@@ -16,16 +16,16 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1527](https://github.com/lapce/lapce/issues/1527#issuecomment-2640007618) in [lapce/lapce](https://github.com/lapce/lapce)
-2. 🗣 Commented on [#1448](https://github.com/lapce/lapce/issues/1448#issuecomment-2639998715) in [lapce/lapce](https://github.com/lapce/lapce)
-3. 🗣 Commented on [#2462](https://github.com/lapce/lapce/issues/2462#issuecomment-2608040362) in [lapce/lapce](https://github.com/lapce/lapce)
-4. ❗ Opened issue [#3621](https://github.com/lapce/lapce/issues/3621) in [lapce/lapce](https://github.com/lapce/lapce)
-5. 🔒 Closed issue [#13](https://github.com/catppuccin/lapce/issues/13) in [catppuccin/lapce](https://github.com/catppuccin/lapce)
-6. 🗣 Commented on [#13](https://github.com/catppuccin/lapce/issues/13#issuecomment-2606162280) in [catppuccin/lapce](https://github.com/catppuccin/lapce)
-7. ❗ Opened issue [#3620](https://github.com/lapce/lapce/issues/3620) in [lapce/lapce](https://github.com/lapce/lapce)
-8. 🗣 Commented on [#13](https://github.com/catppuccin/lapce/issues/13#issuecomment-2606145119) in [catppuccin/lapce](https://github.com/catppuccin/lapce)
-9. ❗ Opened issue [#3619](https://github.com/lapce/lapce/issues/3619) in [lapce/lapce](https://github.com/lapce/lapce)
-10. ❗ Opened issue [#13](https://github.com/catppuccin/lapce/issues/13) in [catppuccin/lapce](https://github.com/catppuccin/lapce)
+1. ❗ Opened issue [#1524](https://github.com/microsoft/presidio/issues/1524) in [microsoft/presidio](https://github.com/microsoft/presidio)
+2. 🗣 Commented on [#1527](https://github.com/lapce/lapce/issues/1527#issuecomment-2640007618) in [lapce/lapce](https://github.com/lapce/lapce)
+3. 🗣 Commented on [#1448](https://github.com/lapce/lapce/issues/1448#issuecomment-2639998715) in [lapce/lapce](https://github.com/lapce/lapce)
+4. 🗣 Commented on [#2462](https://github.com/lapce/lapce/issues/2462#issuecomment-2608040362) in [lapce/lapce](https://github.com/lapce/lapce)
+5. ❗ Opened issue [#3621](https://github.com/lapce/lapce/issues/3621) in [lapce/lapce](https://github.com/lapce/lapce)
+6. 🔒 Closed issue [#13](https://github.com/catppuccin/lapce/issues/13) in [catppuccin/lapce](https://github.com/catppuccin/lapce)
+7. 🗣 Commented on [#13](https://github.com/catppuccin/lapce/issues/13#issuecomment-2606162280) in [catppuccin/lapce](https://github.com/catppuccin/lapce)
+8. ❗ Opened issue [#3620](https://github.com/lapce/lapce/issues/3620) in [lapce/lapce](https://github.com/lapce/lapce)
+9. 🗣 Commented on [#13](https://github.com/catppuccin/lapce/issues/13#issuecomment-2606145119) in [catppuccin/lapce](https://github.com/catppuccin/lapce)
+10. ❗ Opened issue [#3619](https://github.com/lapce/lapce/issues/3619) in [lapce/lapce](https://github.com/lapce/lapce)
 <!--END_SECTION:activity-->
 
 <div align="center">
