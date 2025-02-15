@@ -16,16 +16,16 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/hzbd/kazam/issues/3#issuecomment-2645773828) in [hzbd/kazam](https://github.com/hzbd/kazam)
-2. 🔒 Closed issue [#1524](https://github.com/microsoft/presidio/issues/1524) in [microsoft/presidio](https://github.com/microsoft/presidio)
-3. ❗ Opened issue [#1524](https://github.com/microsoft/presidio/issues/1524) in [microsoft/presidio](https://github.com/microsoft/presidio)
-4. 🗣 Commented on [#1527](https://github.com/lapce/lapce/issues/1527#issuecomment-2640007618) in [lapce/lapce](https://github.com/lapce/lapce)
-5. 🗣 Commented on [#1448](https://github.com/lapce/lapce/issues/1448#issuecomment-2639998715) in [lapce/lapce](https://github.com/lapce/lapce)
-6. 🗣 Commented on [#2462](https://github.com/lapce/lapce/issues/2462#issuecomment-2608040362) in [lapce/lapce](https://github.com/lapce/lapce)
-7. ❗ Opened issue [#3621](https://github.com/lapce/lapce/issues/3621) in [lapce/lapce](https://github.com/lapce/lapce)
-8. 🔒 Closed issue [#13](https://github.com/catppuccin/lapce/issues/13) in [catppuccin/lapce](https://github.com/catppuccin/lapce)
-9. 🗣 Commented on [#13](https://github.com/catppuccin/lapce/issues/13#issuecomment-2606162280) in [catppuccin/lapce](https://github.com/catppuccin/lapce)
-10. ❗ Opened issue [#3620](https://github.com/lapce/lapce/issues/3620) in [lapce/lapce](https://github.com/lapce/lapce)
+1. 💪 Opened PR [#350](https://github.com/linuxmint/cinnamon-control-center/pull/350) in [linuxmint/cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center)
+2. 💪 Opened PR [#12741](https://github.com/linuxmint/cinnamon/pull/12741) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
+3. 🗣 Commented on [#3](https://github.com/hzbd/kazam/issues/3#issuecomment-2645773828) in [hzbd/kazam](https://github.com/hzbd/kazam)
+4. 🔒 Closed issue [#1524](https://github.com/microsoft/presidio/issues/1524) in [microsoft/presidio](https://github.com/microsoft/presidio)
+5. ❗ Opened issue [#1524](https://github.com/microsoft/presidio/issues/1524) in [microsoft/presidio](https://github.com/microsoft/presidio)
+6. 🗣 Commented on [#1527](https://github.com/lapce/lapce/issues/1527#issuecomment-2640007618) in [lapce/lapce](https://github.com/lapce/lapce)
+7. 🗣 Commented on [#1448](https://github.com/lapce/lapce/issues/1448#issuecomment-2639998715) in [lapce/lapce](https://github.com/lapce/lapce)
+8. 🗣 Commented on [#2462](https://github.com/lapce/lapce/issues/2462#issuecomment-2608040362) in [lapce/lapce](https://github.com/lapce/lapce)
+9. ❗ Opened issue [#3621](https://github.com/lapce/lapce/issues/3621) in [lapce/lapce](https://github.com/lapce/lapce)
+10. 🔒 Closed issue [#13](https://github.com/catppuccin/lapce/issues/13) in [catppuccin/lapce](https://github.com/catppuccin/lapce)
 <!--END_SECTION:activity-->
 
 <div align="center">
