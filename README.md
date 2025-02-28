@@ -16,16 +16,16 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12649](https://github.com/linuxmint/cinnamon/issues/12649) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
-2. ❗ Opened issue [#12893](https://github.com/helix-editor/helix/issues/12893) in [helix-editor/helix](https://github.com/helix-editor/helix)
-3. ❗ Opened issue [#12892](https://github.com/helix-editor/helix/issues/12892) in [helix-editor/helix](https://github.com/helix-editor/helix)
-4. ❗ Opened issue [#12743](https://github.com/linuxmint/cinnamon/issues/12743) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
-5. 💪 Opened PR [#12742](https://github.com/linuxmint/cinnamon/pull/12742) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
-6. ❌ Closed PR [#12741](https://github.com/linuxmint/cinnamon/pull/12741) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
-7. 💪 Opened PR [#350](https://github.com/linuxmint/cinnamon-control-center/pull/350) in [linuxmint/cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center)
-8. 💪 Opened PR [#12741](https://github.com/linuxmint/cinnamon/pull/12741) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
-9. 🗣 Commented on [#3](https://github.com/hzbd/kazam/issues/3#issuecomment-2645773828) in [hzbd/kazam](https://github.com/hzbd/kazam)
-10. 🔒 Closed issue [#1524](https://github.com/microsoft/presidio/issues/1524) in [microsoft/presidio](https://github.com/microsoft/presidio)
+1. 🔒 Closed issue [#12893](https://github.com/helix-editor/helix/issues/12893) in [helix-editor/helix](https://github.com/helix-editor/helix)
+2. 🗣 Commented on [#12893](https://github.com/helix-editor/helix/issues/12893#issuecomment-2679462594) in [helix-editor/helix](https://github.com/helix-editor/helix)
+3. 🔒 Closed issue [#12649](https://github.com/linuxmint/cinnamon/issues/12649) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
+4. ❗ Opened issue [#12893](https://github.com/helix-editor/helix/issues/12893) in [helix-editor/helix](https://github.com/helix-editor/helix)
+5. ❗ Opened issue [#12892](https://github.com/helix-editor/helix/issues/12892) in [helix-editor/helix](https://github.com/helix-editor/helix)
+6. ❗ Opened issue [#12743](https://github.com/linuxmint/cinnamon/issues/12743) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
+7. 💪 Opened PR [#12742](https://github.com/linuxmint/cinnamon/pull/12742) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
+8. ❌ Closed PR [#12741](https://github.com/linuxmint/cinnamon/pull/12741) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
+9. 💪 Opened PR [#350](https://github.com/linuxmint/cinnamon-control-center/pull/350) in [linuxmint/cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center)
+10. 💪 Opened PR [#12741](https://github.com/linuxmint/cinnamon/pull/12741) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
 <!--END_SECTION:activity-->
 
 <div align="center">
