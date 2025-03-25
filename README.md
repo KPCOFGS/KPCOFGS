@@ -16,11 +16,11 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1017](https://github.com/hacksider/Deep-Live-Cam/pull/1017) in [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
-2. 💪 Opened PR [#3527](https://github.com/Mintplex-Labs/anything-llm/pull/3527) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-3. 🔒 Closed issue [#12893](https://github.com/helix-editor/helix/issues/12893) in [helix-editor/helix](https://github.com/helix-editor/helix)
-4. 🗣 Commented on [#12893](https://github.com/helix-editor/helix/issues/12893#issuecomment-2679462594) in [helix-editor/helix](https://github.com/helix-editor/helix)
-5. ❗ Opened issue [#12892](https://github.com/helix-editor/helix/issues/12892) in [helix-editor/helix](https://github.com/helix-editor/helix)
+1. 🗣 Commented on [#3527](https://github.com/Mintplex-Labs/anything-llm/pull/3527#issuecomment-2749809895) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+2. 💪 Opened PR [#1017](https://github.com/hacksider/Deep-Live-Cam/pull/1017) in [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+3. 💪 Opened PR [#3527](https://github.com/Mintplex-Labs/anything-llm/pull/3527) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+4. 🔒 Closed issue [#12893](https://github.com/helix-editor/helix/issues/12893) in [helix-editor/helix](https://github.com/helix-editor/helix)
+5. 🗣 Commented on [#12893](https://github.com/helix-editor/helix/issues/12893#issuecomment-2679462594) in [helix-editor/helix](https://github.com/helix-editor/helix)
 6. ❗ Opened issue [#12743](https://github.com/linuxmint/cinnamon/issues/12743) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
 7. 💪 Opened PR [#12742](https://github.com/linuxmint/cinnamon/pull/12742) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
 8. ❌ Closed PR [#12741](https://github.com/linuxmint/cinnamon/pull/12741) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
