@@ -16,13 +16,13 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1017](https://github.com/hacksider/Deep-Live-Cam/pull/1017#issuecomment-2754710373) in [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
-2. 💪 Opened PR [#2327](https://github.com/solliancenet/foundationallm/pull/2327) in [solliancenet/foundationallm](https://github.com/solliancenet/foundationallm)
-3. 💪 Opened PR [#816](https://github.com/deepseek-ai/DeepSeek-V3/pull/816) in [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
-4. 🗣 Commented on [#3527](https://github.com/Mintplex-Labs/anything-llm/pull/3527#issuecomment-2749809895) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-5. 💪 Opened PR [#1017](https://github.com/hacksider/Deep-Live-Cam/pull/1017) in [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
-6. 💪 Opened PR [#3527](https://github.com/Mintplex-Labs/anything-llm/pull/3527) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-7. 🔒 Closed issue [#12893](https://github.com/helix-editor/helix/issues/12893) in [helix-editor/helix](https://github.com/helix-editor/helix)
+1. 💪 Opened PR [#9562](https://github.com/BerriAI/litellm/pull/9562) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
+2. 🗣 Commented on [#1017](https://github.com/hacksider/Deep-Live-Cam/pull/1017#issuecomment-2754710373) in [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+3. 💪 Opened PR [#2327](https://github.com/solliancenet/foundationallm/pull/2327) in [solliancenet/foundationallm](https://github.com/solliancenet/foundationallm)
+4. 💪 Opened PR [#816](https://github.com/deepseek-ai/DeepSeek-V3/pull/816) in [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
+5. 🗣 Commented on [#3527](https://github.com/Mintplex-Labs/anything-llm/pull/3527#issuecomment-2749809895) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+6. 💪 Opened PR [#1017](https://github.com/hacksider/Deep-Live-Cam/pull/1017) in [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+7. 💪 Opened PR [#3527](https://github.com/Mintplex-Labs/anything-llm/pull/3527) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
 8. 🗣 Commented on [#12893](https://github.com/helix-editor/helix/issues/12893#issuecomment-2679462594) in [helix-editor/helix](https://github.com/helix-editor/helix)
 9. 💪 Opened PR [#350](https://github.com/linuxmint/cinnamon-control-center/pull/350) in [linuxmint/cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center)
 10. 💪 Opened PR [#12741](https://github.com/linuxmint/cinnamon/pull/12741) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
