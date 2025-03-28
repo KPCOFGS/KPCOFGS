@@ -16,16 +16,16 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1006](https://github.com/Portkey-AI/gateway/pull/1006) in [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
-2. 💪 Opened PR [#5290](https://github.com/chatchat-space/Langchain-Chatchat/pull/5290) in [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
-3. 💪 Opened PR [#7204](https://github.com/lobehub/lobe-chat/pull/7204) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-4. 💪 Opened PR [#288](https://github.com/StanfordVL/bddl/pull/288) in [StanfordVL/bddl](https://github.com/StanfordVL/bddl)
-5. ❌ Closed PR [#14066](https://github.com/signalapp/Signal-Android/pull/14066) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
-6. 🗣 Commented on [#14066](https://github.com/signalapp/Signal-Android/pull/14066#issuecomment-2759786468) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
-7. 💪 Opened PR [#14066](https://github.com/signalapp/Signal-Android/pull/14066) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
-8. 💪 Opened PR [#51776](https://github.com/ray-project/ray/pull/51776) in [ray-project/ray](https://github.com/ray-project/ray)
-9. 💪 Opened PR [#607](https://github.com/signalapp/libsignal/pull/607) in [signalapp/libsignal](https://github.com/signalapp/libsignal)
-10. 💪 Opened PR [#12659](https://github.com/enso-org/enso/pull/12659) in [enso-org/enso](https://github.com/enso-org/enso)
+1. 💪 Opened PR [#4377](https://github.com/labring/FastGPT/pull/4377) in [labring/FastGPT](https://github.com/labring/FastGPT)
+2. 💪 Opened PR [#1006](https://github.com/Portkey-AI/gateway/pull/1006) in [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
+3. 💪 Opened PR [#5290](https://github.com/chatchat-space/Langchain-Chatchat/pull/5290) in [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
+4. 💪 Opened PR [#7204](https://github.com/lobehub/lobe-chat/pull/7204) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
+5. 💪 Opened PR [#288](https://github.com/StanfordVL/bddl/pull/288) in [StanfordVL/bddl](https://github.com/StanfordVL/bddl)
+6. ❌ Closed PR [#14066](https://github.com/signalapp/Signal-Android/pull/14066) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
+7. 🗣 Commented on [#14066](https://github.com/signalapp/Signal-Android/pull/14066#issuecomment-2759786468) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
+8. 💪 Opened PR [#14066](https://github.com/signalapp/Signal-Android/pull/14066) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
+9. 💪 Opened PR [#51776](https://github.com/ray-project/ray/pull/51776) in [ray-project/ray](https://github.com/ray-project/ray)
+10. 💪 Opened PR [#607](https://github.com/signalapp/libsignal/pull/607) in [signalapp/libsignal](https://github.com/signalapp/libsignal)
 <!--END_SECTION:activity-->
 
 <div align="center">
