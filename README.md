@@ -16,16 +16,16 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#607](https://github.com/signalapp/libsignal/pull/607) in [signalapp/libsignal](https://github.com/signalapp/libsignal)
-2. 💪 Opened PR [#12659](https://github.com/enso-org/enso/pull/12659) in [enso-org/enso](https://github.com/enso-org/enso)
-3. 💪 Opened PR [#9562](https://github.com/BerriAI/litellm/pull/9562) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
-4. 🗣 Commented on [#1017](https://github.com/hacksider/Deep-Live-Cam/pull/1017#issuecomment-2754710373) in [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
-5. 💪 Opened PR [#2327](https://github.com/solliancenet/foundationallm/pull/2327) in [solliancenet/foundationallm](https://github.com/solliancenet/foundationallm)
-6. 💪 Opened PR [#816](https://github.com/deepseek-ai/DeepSeek-V3/pull/816) in [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
-7. 🗣 Commented on [#3527](https://github.com/Mintplex-Labs/anything-llm/pull/3527#issuecomment-2749809895) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-8. 💪 Opened PR [#1017](https://github.com/hacksider/Deep-Live-Cam/pull/1017) in [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
-9. 💪 Opened PR [#3527](https://github.com/Mintplex-Labs/anything-llm/pull/3527) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-10. 💪 Opened PR [#12741](https://github.com/linuxmint/cinnamon/pull/12741) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
+1. ❌ Closed PR [#14066](https://github.com/signalapp/Signal-Android/pull/14066) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
+2. 🗣 Commented on [#14066](https://github.com/signalapp/Signal-Android/pull/14066#issuecomment-2759786468) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
+3. 💪 Opened PR [#14066](https://github.com/signalapp/Signal-Android/pull/14066) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
+4. 💪 Opened PR [#51776](https://github.com/ray-project/ray/pull/51776) in [ray-project/ray](https://github.com/ray-project/ray)
+5. 💪 Opened PR [#607](https://github.com/signalapp/libsignal/pull/607) in [signalapp/libsignal](https://github.com/signalapp/libsignal)
+6. 💪 Opened PR [#12659](https://github.com/enso-org/enso/pull/12659) in [enso-org/enso](https://github.com/enso-org/enso)
+7. 💪 Opened PR [#9562](https://github.com/BerriAI/litellm/pull/9562) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
+8. 🗣 Commented on [#1017](https://github.com/hacksider/Deep-Live-Cam/pull/1017#issuecomment-2754710373) in [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+9. 💪 Opened PR [#2327](https://github.com/solliancenet/foundationallm/pull/2327) in [solliancenet/foundationallm](https://github.com/solliancenet/foundationallm)
+10. 💪 Opened PR [#816](https://github.com/deepseek-ai/DeepSeek-V3/pull/816) in [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
 <!--END_SECTION:activity-->
 
 <div align="center">
