@@ -16,16 +16,16 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#115](https://github.com/mmcinnestaylor/Programming-Contest-Suite/issues/115) in [mmcinnestaylor/Programming-Contest-Suite](https://github.com/mmcinnestaylor/Programming-Contest-Suite)
-2. ❗ Opened issue [#115](https://github.com/mmcinnestaylor/Programming-Contest-Suite/issues/115) in [mmcinnestaylor/Programming-Contest-Suite](https://github.com/mmcinnestaylor/Programming-Contest-Suite)
-3. 💪 Opened PR [#33138](https://github.com/neovim/neovim/pull/33138) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 💪 Opened PR [#2522](https://github.com/cline/cline/pull/2522) in [cline/cline](https://github.com/cline/cline)
-5. 💪 Opened PR [#30538](https://github.com/langchain-ai/langchain/pull/30538) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-6. 💪 Opened PR [#4377](https://github.com/labring/FastGPT/pull/4377) in [labring/FastGPT](https://github.com/labring/FastGPT)
-7. 💪 Opened PR [#1006](https://github.com/Portkey-AI/gateway/pull/1006) in [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
-8. 💪 Opened PR [#5290](https://github.com/chatchat-space/Langchain-Chatchat/pull/5290) in [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
-9. 💪 Opened PR [#7204](https://github.com/lobehub/lobe-chat/pull/7204) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
-10. 💪 Opened PR [#288](https://github.com/StanfordVL/bddl/pull/288) in [StanfordVL/bddl](https://github.com/StanfordVL/bddl)
+1. 💪 Opened PR [#936](https://github.com/fishaudio/fish-speech/pull/936) in [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
+2. 🔒 Closed issue [#115](https://github.com/mmcinnestaylor/Programming-Contest-Suite/issues/115) in [mmcinnestaylor/Programming-Contest-Suite](https://github.com/mmcinnestaylor/Programming-Contest-Suite)
+3. ❗ Opened issue [#115](https://github.com/mmcinnestaylor/Programming-Contest-Suite/issues/115) in [mmcinnestaylor/Programming-Contest-Suite](https://github.com/mmcinnestaylor/Programming-Contest-Suite)
+4. 💪 Opened PR [#33138](https://github.com/neovim/neovim/pull/33138) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 💪 Opened PR [#2522](https://github.com/cline/cline/pull/2522) in [cline/cline](https://github.com/cline/cline)
+6. 💪 Opened PR [#30538](https://github.com/langchain-ai/langchain/pull/30538) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+7. 💪 Opened PR [#4377](https://github.com/labring/FastGPT/pull/4377) in [labring/FastGPT](https://github.com/labring/FastGPT)
+8. 💪 Opened PR [#1006](https://github.com/Portkey-AI/gateway/pull/1006) in [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)
+9. 💪 Opened PR [#5290](https://github.com/chatchat-space/Langchain-Chatchat/pull/5290) in [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
+10. 💪 Opened PR [#7204](https://github.com/lobehub/lobe-chat/pull/7204) in [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
 <!--END_SECTION:activity-->
 
 <div align="center">
