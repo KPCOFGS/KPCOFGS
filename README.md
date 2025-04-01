@@ -16,16 +16,16 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#916](https://github.com/unclecode/crawl4ai/pull/916) in [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
-2. 💪 Opened PR [#5472](https://github.com/coollabsio/coolify/pull/5472) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-3. 💪 Opened PR [#3158](https://github.com/th-ch/youtube-music/pull/3158) in [th-ch/youtube-music](https://github.com/th-ch/youtube-music)
-4. 💪 Opened PR [#18606](https://github.com/oven-sh/bun/pull/18606) in [oven-sh/bun](https://github.com/oven-sh/bun)
-5. 💪 Opened PR [#936](https://github.com/fishaudio/fish-speech/pull/936) in [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
-6. 🔒 Closed issue [#115](https://github.com/mmcinnestaylor/Programming-Contest-Suite/issues/115) in [mmcinnestaylor/Programming-Contest-Suite](https://github.com/mmcinnestaylor/Programming-Contest-Suite)
-7. ❗ Opened issue [#115](https://github.com/mmcinnestaylor/Programming-Contest-Suite/issues/115) in [mmcinnestaylor/Programming-Contest-Suite](https://github.com/mmcinnestaylor/Programming-Contest-Suite)
-8. 💪 Opened PR [#33138](https://github.com/neovim/neovim/pull/33138) in [neovim/neovim](https://github.com/neovim/neovim)
-9. 💪 Opened PR [#2522](https://github.com/cline/cline/pull/2522) in [cline/cline](https://github.com/cline/cline)
-10. 💪 Opened PR [#30538](https://github.com/langchain-ai/langchain/pull/30538) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+1. ❌ Closed PR [#288](https://github.com/StanfordVL/bddl/pull/288) in [StanfordVL/bddl](https://github.com/StanfordVL/bddl)
+2. 💪 Opened PR [#289](https://github.com/StanfordVL/bddl/pull/289) in [StanfordVL/bddl](https://github.com/StanfordVL/bddl)
+3. 💪 Opened PR [#916](https://github.com/unclecode/crawl4ai/pull/916) in [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
+4. 💪 Opened PR [#5472](https://github.com/coollabsio/coolify/pull/5472) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+5. 💪 Opened PR [#3158](https://github.com/th-ch/youtube-music/pull/3158) in [th-ch/youtube-music](https://github.com/th-ch/youtube-music)
+6. 💪 Opened PR [#18606](https://github.com/oven-sh/bun/pull/18606) in [oven-sh/bun](https://github.com/oven-sh/bun)
+7. 💪 Opened PR [#936](https://github.com/fishaudio/fish-speech/pull/936) in [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
+8. 🔒 Closed issue [#115](https://github.com/mmcinnestaylor/Programming-Contest-Suite/issues/115) in [mmcinnestaylor/Programming-Contest-Suite](https://github.com/mmcinnestaylor/Programming-Contest-Suite)
+9. ❗ Opened issue [#115](https://github.com/mmcinnestaylor/Programming-Contest-Suite/issues/115) in [mmcinnestaylor/Programming-Contest-Suite](https://github.com/mmcinnestaylor/Programming-Contest-Suite)
+10. 💪 Opened PR [#33138](https://github.com/neovim/neovim/pull/33138) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
 
 <div align="center">
