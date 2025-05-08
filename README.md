@@ -6,8 +6,6 @@
 
 🔥 **I'm very passionate about Linux, System Admin, Programming and Artificial Intelligence**
 
-🌐 **My [Website](https://kpcofgs.github.io/)**
-
 📬 **You can reach me via [email](mailto:shixian_sheng-2@protonmail.com)**
 
 <a>
