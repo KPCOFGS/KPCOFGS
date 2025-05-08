@@ -14,13 +14,13 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3775](https://github.com/Mintplex-Labs/anything-llm/pull/3775) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-2. 🎉 Merged PR [#1](https://github.com/KPCOFGS/anything-llm/pull/1) in [KPCOFGS/anything-llm](https://github.com/KPCOFGS/anything-llm)
-3. 💪 Opened PR [#1](https://github.com/KPCOFGS/anything-llm/pull/1) in [KPCOFGS/anything-llm](https://github.com/KPCOFGS/anything-llm)
-4. 💪 Opened PR [#3748](https://github.com/Mintplex-Labs/anything-llm/pull/3748) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-5. ❌ Closed PR [#18606](https://github.com/oven-sh/bun/pull/18606) in [oven-sh/bun](https://github.com/oven-sh/bun)
-6. ❌ Closed PR [#289](https://github.com/StanfordVL/bddl/pull/289) in [StanfordVL/bddl](https://github.com/StanfordVL/bddl)
-7. ❌ Closed PR [#6824](https://github.com/oobabooga/text-generation-webui/pull/6824) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+1. 💪 Opened PR [#3776](https://github.com/Mintplex-Labs/anything-llm/pull/3776) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+2. 💪 Opened PR [#3775](https://github.com/Mintplex-Labs/anything-llm/pull/3775) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+3. 🎉 Merged PR [#1](https://github.com/KPCOFGS/anything-llm/pull/1) in [KPCOFGS/anything-llm](https://github.com/KPCOFGS/anything-llm)
+4. 💪 Opened PR [#1](https://github.com/KPCOFGS/anything-llm/pull/1) in [KPCOFGS/anything-llm](https://github.com/KPCOFGS/anything-llm)
+5. 💪 Opened PR [#3748](https://github.com/Mintplex-Labs/anything-llm/pull/3748) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+6. ❌ Closed PR [#18606](https://github.com/oven-sh/bun/pull/18606) in [oven-sh/bun](https://github.com/oven-sh/bun)
+7. ❌ Closed PR [#289](https://github.com/StanfordVL/bddl/pull/289) in [StanfordVL/bddl](https://github.com/StanfordVL/bddl)
 8. ❌ Closed PR [#6823](https://github.com/oobabooga/text-generation-webui/pull/6823) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 9. 💪 Opened PR [#6824](https://github.com/oobabooga/text-generation-webui/pull/6824) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 10. 💪 Opened PR [#6823](https://github.com/oobabooga/text-generation-webui/pull/6823) in [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
