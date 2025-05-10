@@ -14,16 +14,16 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3787](https://github.com/Mintplex-Labs/anything-llm/pull/3787) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-2. 💪 Opened PR [#3786](https://github.com/Mintplex-Labs/anything-llm/pull/3786) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-3. 🗣 Commented on [#3620](https://github.com/lapce/lapce/issues/3620#issuecomment-2860864881) in [lapce/lapce](https://github.com/lapce/lapce)
-4. 💪 Opened PR [#3780](https://github.com/Mintplex-Labs/anything-llm/pull/3780) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-5. 💪 Opened PR [#3776](https://github.com/Mintplex-Labs/anything-llm/pull/3776) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-6. 💪 Opened PR [#3775](https://github.com/Mintplex-Labs/anything-llm/pull/3775) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-7. 🎉 Merged PR [#1](https://github.com/KPCOFGS/anything-llm/pull/1) in [KPCOFGS/anything-llm](https://github.com/KPCOFGS/anything-llm)
-8. 💪 Opened PR [#1](https://github.com/KPCOFGS/anything-llm/pull/1) in [KPCOFGS/anything-llm](https://github.com/KPCOFGS/anything-llm)
-9. 💪 Opened PR [#3748](https://github.com/Mintplex-Labs/anything-llm/pull/3748) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-10. ❌ Closed PR [#18606](https://github.com/oven-sh/bun/pull/18606) in [oven-sh/bun](https://github.com/oven-sh/bun)
+1. 💪 Opened PR [#3796](https://github.com/Mintplex-Labs/anything-llm/pull/3796) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+2. 💪 Opened PR [#3787](https://github.com/Mintplex-Labs/anything-llm/pull/3787) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+3. 💪 Opened PR [#3786](https://github.com/Mintplex-Labs/anything-llm/pull/3786) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+4. 🗣 Commented on [#3620](https://github.com/lapce/lapce/issues/3620#issuecomment-2860864881) in [lapce/lapce](https://github.com/lapce/lapce)
+5. 💪 Opened PR [#3780](https://github.com/Mintplex-Labs/anything-llm/pull/3780) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+6. 💪 Opened PR [#3776](https://github.com/Mintplex-Labs/anything-llm/pull/3776) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+7. 💪 Opened PR [#3775](https://github.com/Mintplex-Labs/anything-llm/pull/3775) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+8. 🎉 Merged PR [#1](https://github.com/KPCOFGS/anything-llm/pull/1) in [KPCOFGS/anything-llm](https://github.com/KPCOFGS/anything-llm)
+9. 💪 Opened PR [#1](https://github.com/KPCOFGS/anything-llm/pull/1) in [KPCOFGS/anything-llm](https://github.com/KPCOFGS/anything-llm)
+10. 💪 Opened PR [#3748](https://github.com/Mintplex-Labs/anything-llm/pull/3748) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
 <!--END_SECTION:activity-->
 
 <div align="center">
