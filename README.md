@@ -14,16 +14,16 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#849](https://github.com/longbridge/gpui-component/pull/849) in [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
-2. ❌ Closed PR [#848](https://github.com/longbridge/gpui-component/pull/848) in [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
-3. 💪 Opened PR [#848](https://github.com/longbridge/gpui-component/pull/848) in [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
-4. 💪 Opened PR [#3802](https://github.com/Mintplex-Labs/anything-llm/pull/3802) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-5. ❗ Opened issue [#3801](https://github.com/Mintplex-Labs/anything-llm/issues/3801) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-6. 💪 Opened PR [#3796](https://github.com/Mintplex-Labs/anything-llm/pull/3796) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-7. 💪 Opened PR [#3787](https://github.com/Mintplex-Labs/anything-llm/pull/3787) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-8. 💪 Opened PR [#3786](https://github.com/Mintplex-Labs/anything-llm/pull/3786) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
-9. 🗣 Commented on [#3620](https://github.com/lapce/lapce/issues/3620#issuecomment-2860864881) in [lapce/lapce](https://github.com/lapce/lapce)
-10. 💪 Opened PR [#3780](https://github.com/Mintplex-Labs/anything-llm/pull/3780) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+1. 💪 Opened PR [#3852](https://github.com/Mintplex-Labs/anything-llm/pull/3852) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+2. 💪 Opened PR [#849](https://github.com/longbridge/gpui-component/pull/849) in [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
+3. ❌ Closed PR [#848](https://github.com/longbridge/gpui-component/pull/848) in [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
+4. 💪 Opened PR [#848](https://github.com/longbridge/gpui-component/pull/848) in [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
+5. 💪 Opened PR [#3802](https://github.com/Mintplex-Labs/anything-llm/pull/3802) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+6. ❗ Opened issue [#3801](https://github.com/Mintplex-Labs/anything-llm/issues/3801) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+7. 💪 Opened PR [#3796](https://github.com/Mintplex-Labs/anything-llm/pull/3796) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+8. 💪 Opened PR [#3787](https://github.com/Mintplex-Labs/anything-llm/pull/3787) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+9. 💪 Opened PR [#3786](https://github.com/Mintplex-Labs/anything-llm/pull/3786) in [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+10. 🗣 Commented on [#3620](https://github.com/lapce/lapce/issues/3620#issuecomment-2860864881) in [lapce/lapce](https://github.com/lapce/lapce)
 <!--END_SECTION:activity-->
 
 <div align="center">
