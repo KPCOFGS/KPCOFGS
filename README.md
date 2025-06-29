@@ -14,8 +14,8 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#936](https://github.com/eythaann/Seelen-UI/pull/936) in [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
-2. 🗣 Commented on [#607](https://github.com/signalapp/libsignal/pull/607#issuecomment-2894099371) in [signalapp/libsignal](https://github.com/signalapp/libsignal)
+1. 💪 Opened PR [#1060](https://github.com/fishaudio/fish-speech/pull/1060) in [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
+2. 💪 Opened PR [#936](https://github.com/eythaann/Seelen-UI/pull/936) in [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
 3. ❗ Opened issue [#616](https://github.com/signalapp/libsignal/issues/616) in [signalapp/libsignal](https://github.com/signalapp/libsignal)
 4. 🗣 Commented on [#1543](https://github.com/pytorch/torchchat/issues/1543#issuecomment-2893936092) in [pytorch/torchchat](https://github.com/pytorch/torchchat)
 5. 🔒 Closed issue [#3620](https://github.com/lapce/lapce/issues/3620) in [lapce/lapce](https://github.com/lapce/lapce)
