@@ -14,7 +14,7 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1060](https://github.com/fishaudio/fish-speech/pull/1060) in [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
+1. 🚀 Published release [rusty-chat](https://github.com/KPCOFGS/RustyChat/releases/tag/release) in [KPCOFGS/RustyChat](https://github.com/KPCOFGS/RustyChat)
 2. 💪 Opened PR [#936](https://github.com/eythaann/Seelen-UI/pull/936) in [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
 3. ❗ Opened issue [#616](https://github.com/signalapp/libsignal/issues/616) in [signalapp/libsignal](https://github.com/signalapp/libsignal)
 4. 🗣 Commented on [#1543](https://github.com/pytorch/torchchat/issues/1543#issuecomment-2893936092) in [pytorch/torchchat](https://github.com/pytorch/torchchat)
