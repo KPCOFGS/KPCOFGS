@@ -8,10 +8,6 @@
 
 📬 **You can reach me via [email](mailto:shixian_sheng-2@protonmail.com)**
 
-<a>
-    <img align="right" height=210px src="https://github-readme-stats.vercel.app/api?username=KPCOFGS&theme=tokyonight&show_icons=true&show=prs_merged">
-</a>
-
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
 1. 🚀 Published release [rusty-chat](https://github.com/KPCOFGS/RustyChat/releases/tag/release) in [KPCOFGS/RustyChat](https://github.com/KPCOFGS/RustyChat)
