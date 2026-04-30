@@ -4,9 +4,7 @@
 
 🌱 **I’m currently learning Typescript, Python, C++ and Rust**
 
-🔥 **I'm very passionate about Linux, System Admin, Programming and Artificial Intelligence**
-
-📬 **You can reach me via [email](mailto:shixian_sheng-2@protonmail.com)**
+🔥 **I'm very passionate about pretty much anything related to tech**
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
