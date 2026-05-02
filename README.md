@@ -8,7 +8,7 @@
 
 ### ⚡ **Recent Activity**
 <!--START_SECTION:activity-->
-1. 🚀 Published release [rusty-chat](https://github.com/KPCOFGS/RustyChat/releases/tag/release) in [KPCOFGS/RustyChat](https://github.com/KPCOFGS/RustyChat)
+1. 🚀 Published release [0.2.1](https://github.com/KPCOFGS/overlooked/releases/tag/0.2.1) in [KPCOFGS/overlooked](https://github.com/KPCOFGS/overlooked)
 2. 💪 Opened PR [#936](https://github.com/eythaann/Seelen-UI/pull/936) in [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
 3. ❗ Opened issue [#616](https://github.com/signalapp/libsignal/issues/616) in [signalapp/libsignal](https://github.com/signalapp/libsignal)
 4. 🗣 Commented on [#1543](https://github.com/pytorch/torchchat/issues/1543#issuecomment-2893936092) in [pytorch/torchchat](https://github.com/pytorch/torchchat)
