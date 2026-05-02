@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&vCenter=true&width=200&height=40&lines=Hello+World+👋)](https://git.io/typing-svg)
 
-🌱 **I’m currently learning Typescript, Python, C++ and Rust**
+🌱 **I’m currently learning Typescript, Python, and Rust**
 
 🔥 **I'm very passionate about pretty much anything related to tech**
 
